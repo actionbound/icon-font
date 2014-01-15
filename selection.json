@@ -265,7 +265,7 @@
 				"order": 13,
 				"id": 4,
 				"prevSize": 32,
-				"name": "uniF0AD",
+				"name": "wrench",
 				"ligatures": "",
 				"code": 61613
 			}
@@ -283,7 +283,7 @@
 				"order": 14,
 				"id": 5,
 				"prevSize": 32,
-				"name": "uniF179",
+				"name": "apple",
 				"ligatures": "",
 				"code": 61817
 			}
@@ -301,7 +301,7 @@
 				"order": 15,
 				"id": 6,
 				"prevSize": 32,
-				"name": "uniF17B",
+				"name": "android",
 				"ligatures": "",
 				"code": 61819
 			}
@@ -319,7 +319,7 @@
 				"order": 16,
 				"id": 7,
 				"prevSize": 32,
-				"name": "uniF17A",
+				"name": "windows",
 				"ligatures": "",
 				"code": 61818
 			}
@@ -337,7 +337,7 @@
 				"order": 17,
 				"id": 8,
 				"prevSize": 32,
-				"name": "uniF005",
+				"name": "star",
 				"ligatures": "",
 				"code": 61445
 			}
@@ -355,7 +355,7 @@
 				"order": 18,
 				"id": 10,
 				"prevSize": 32,
-				"name": "uniF123",
+				"name": "star half",
 				"ligatures": "",
 				"code": 61731
 			}
@@ -373,7 +373,7 @@
 				"order": 19,
 				"id": 9,
 				"prevSize": 32,
-				"name": "uniF006",
+				"name": "star empty",
 				"ligatures": "",
 				"code": 61446
 			}
@@ -390,7 +390,7 @@
 				"order": 20,
 				"id": 11,
 				"prevSize": 32,
-				"name": "uniE002",
+				"name": "verified",
 				"ligatures": "",
 				"code": 57346
 			}
@@ -408,7 +408,7 @@
 				"order": 21,
 				"id": 12,
 				"prevSize": 32,
-				"name": "uniF0AC",
+				"name": "earth us",
 				"ligatures": "",
 				"code": 61612
 			}
@@ -425,7 +425,7 @@
 				"order": 22,
 				"id": 13,
 				"prevSize": 32,
-				"name": "uniE003",
+				"name": "earth",
 				"ligatures": "",
 				"code": 57347
 			}
@@ -443,7 +443,7 @@
 				"order": 23,
 				"id": 16,
 				"prevSize": 32,
-				"name": "uniF014",
+				"name": "trash",
 				"ligatures": "",
 				"code": 61460
 			}
@@ -463,7 +463,7 @@
 				"order": 24,
 				"id": 18,
 				"prevSize": 32,
-				"name": "uniE006",
+				"name": "flag",
 				"ligatures": "",
 				"code": 57350
 			}
@@ -480,7 +480,7 @@
 				"order": 25,
 				"id": 19,
 				"prevSize": 32,
-				"name": "uniE007",
+				"name": "info",
 				"ligatures": "",
 				"code": 57351
 			}
@@ -497,7 +497,7 @@
 				"order": 26,
 				"id": 20,
 				"prevSize": 32,
-				"name": "uniE008",
+				"name": "question",
 				"ligatures": "",
 				"code": 57352
 			}
@@ -515,27 +515,9 @@
 				"order": 27,
 				"id": 21,
 				"prevSize": 32,
-				"name": "uniF06A",
+				"name": "attention",
 				"ligatures": "",
 				"code": 61546
-			}
-		},
-		{
-			"icon": {
-				"width": 585,
-				"paths": [
-					"M438.857 365.714q0-60.571-42.857-103.429t-103.429-42.857-103.429 42.857-42.857 103.429 42.857 103.429 103.429 42.857 103.429-42.857 42.857-103.429zM585.143 365.714q0 62.286-18.857 102.286l-208 442.286q-9.143 18.857-27.143 29.714t-38.571 10.857-38.571-10.857-26.571-29.714l-208.571-442.286q-18.857-40-18.857-102.286 0-121.143 85.714-206.857t206.857-85.714 206.857 85.714 85.714 206.857z"
-				],
-				"defaultCode": 61505,
-				"grid": 16
-			},
-			"properties": {
-				"order": 28,
-				"id": 23,
-				"prevSize": 32,
-				"name": "uniF041",
-				"ligatures": "",
-				"code": 61505
 			}
 		},
 		{
@@ -547,10 +529,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 29,
+				"order": 28,
 				"id": 24,
 				"prevSize": 32,
-				"name": "uniF086",
+				"name": "bubbles",
 				"ligatures": "",
 				"code": 61574
 			}
@@ -564,10 +546,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 30,
+				"order": 29,
 				"id": 25,
 				"prevSize": 32,
-				"name": "uniE009",
+				"name": "feather",
 				"ligatures": "",
 				"code": 57353
 			}
@@ -581,10 +563,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 31,
+				"order": 30,
 				"id": 27,
 				"prevSize": 32,
-				"name": "uniE00B",
+				"name": "vimeo",
 				"ligatures": "",
 				"code": 57355
 			}
@@ -598,10 +580,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 32,
+				"order": 31,
 				"id": 28,
 				"prevSize": 32,
-				"name": "uniE00C",
+				"name": "facebook",
 				"ligatures": "",
 				"code": 57356
 			}
@@ -615,10 +597,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 33,
+				"order": 32,
 				"id": 29,
 				"prevSize": 32,
-				"name": "uniE00D",
+				"name": "twitter",
 				"ligatures": "",
 				"code": 57357
 			}
@@ -632,10 +614,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 34,
+				"order": 33,
 				"id": 30,
 				"prevSize": 32,
-				"name": "uniE00E",
+				"name": "google plus",
 				"ligatures": "",
 				"code": 57358
 			}
@@ -649,10 +631,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 35,
+				"order": 34,
 				"id": 31,
 				"prevSize": 32,
-				"name": "uniE00F",
+				"name": "on off",
 				"ligatures": "",
 				"code": 57359
 			}
@@ -667,10 +649,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 36,
+				"order": 35,
 				"id": 32,
 				"prevSize": 32,
-				"name": "uniF02B",
+				"name": "tag",
 				"ligatures": "",
 				"code": 61483
 			}
@@ -685,10 +667,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 37,
+				"order": 36,
 				"id": 33,
 				"prevSize": 32,
-				"name": "uniF02C",
+				"name": "tags",
 				"ligatures": "",
 				"code": 61484
 			}
@@ -702,10 +684,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 38,
+				"order": 37,
 				"id": 34,
 				"prevSize": 32,
-				"name": "uniE011",
+				"name": "time",
 				"ligatures": "",
 				"code": 57361
 			}
@@ -719,7 +701,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 39,
+				"order": 38,
 				"id": 35,
 				"prevSize": 32,
 				"name": "uniE012",
@@ -737,10 +719,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 40,
+				"order": 39,
 				"id": 36,
 				"prevSize": 32,
-				"name": "uniF110",
+				"name": "loader",
 				"ligatures": "",
 				"code": 61712
 			}
@@ -755,10 +737,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 41,
+				"order": 40,
 				"id": 37,
 				"prevSize": 32,
-				"name": "uniF188",
+				"name": "bug",
 				"ligatures": "",
 				"code": 61832
 			}
@@ -773,10 +755,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 42,
+				"order": 41,
 				"id": 38,
 				"prevSize": 32,
-				"name": "uniF018",
+				"name": "distance",
 				"ligatures": "",
 				"code": 61464
 			}
@@ -790,10 +772,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 43,
+				"order": 42,
 				"id": 39,
 				"prevSize": 32,
-				"name": "uniE013",
+				"name": "single player",
 				"ligatures": "",
 				"code": 57363
 			}
@@ -807,10 +789,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 44,
+				"order": 43,
 				"id": 40,
 				"prevSize": 32,
-				"name": "uniE014",
+				"name": "multi player",
 				"ligatures": "",
 				"code": 57364
 			}
@@ -825,10 +807,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 45,
+				"order": 44,
 				"id": 41,
 				"prevSize": 32,
-				"name": "uniF033",
+				"name": "italic",
 				"ligatures": "",
 				"code": 61491
 			}
@@ -843,10 +825,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 46,
+				"order": 45,
 				"id": 42,
 				"prevSize": 32,
-				"name": "uniF032",
+				"name": "bold",
 				"ligatures": "",
 				"code": 61490
 			}
@@ -860,10 +842,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 47,
+				"order": 46,
 				"id": 44,
 				"prevSize": 32,
-				"name": "uniE015",
+				"name": "link",
 				"ligatures": "",
 				"code": 57365
 			}
@@ -877,10 +859,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 48,
+				"order": 47,
 				"id": 45,
 				"prevSize": 32,
-				"name": "uniF00C",
+				"name": "check",
 				"ligatures": "",
 				"code": 61452
 			}
@@ -895,10 +877,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 49,
+				"order": 48,
 				"id": 46,
 				"prevSize": 32,
-				"name": "uniF00D",
+				"name": "cancel",
 				"ligatures": "",
 				"code": 61453
 			}
@@ -912,10 +894,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 50,
+				"order": 49,
 				"id": 47,
 				"prevSize": 32,
-				"name": "uniF004",
+				"name": "love",
 				"ligatures": "",
 				"code": 61444
 			}
@@ -929,10 +911,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 51,
+				"order": 50,
 				"id": 48,
 				"prevSize": 32,
-				"name": "uniE000",
+				"name": "law",
 				"ligatures": "",
 				"code": 57344
 			}
@@ -946,10 +928,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 52,
+				"order": 51,
 				"id": 49,
 				"prevSize": 32,
-				"name": "uniF0C5",
+				"name": "copy",
 				"ligatures": "",
 				"code": 61637
 			}
@@ -963,10 +945,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 53,
+				"order": 52,
 				"id": 51,
 				"prevSize": 32,
-				"name": "uniE016",
+				"name": "upload",
 				"ligatures": "",
 				"code": 57366
 			}
@@ -980,10 +962,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 54,
+				"order": 53,
 				"id": 52,
 				"prevSize": 32,
-				"name": "uniE010",
+				"name": "berlin",
 				"ligatures": "",
 				"code": 57360
 			}
@@ -997,10 +979,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 55,
+				"order": 54,
 				"id": 53,
 				"prevSize": 32,
-				"name": "uniE004",
+				"name": "pen",
 				"ligatures": "",
 				"code": 57348
 			}
@@ -1015,10 +997,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 56,
+				"order": 55,
 				"id": 54,
 				"prevSize": 32,
-				"name": "uniF002",
+				"name": "search",
 				"ligatures": "",
 				"code": 61442
 			}
@@ -1038,11 +1020,11 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 57,
+				"order": 56,
 				"id": 64,
 				"prevSize": 32,
 				"code": 58882,
-				"name": "undo",
+				"name": "redo",
 				"ligatures": ""
 			}
 		},
@@ -1061,11 +1043,11 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 58,
+				"order": 57,
 				"id": 65,
 				"prevSize": 32,
 				"code": 58883,
-				"name": "undo2",
+				"name": "undo",
 				"ligatures": ""
 			}
 		},
@@ -1086,7 +1068,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 59,
+				"order": 58,
 				"id": 62,
 				"prevSize": 32,
 				"name": "reply",
@@ -1108,7 +1090,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 60,
+				"order": 59,
 				"id": 63,
 				"prevSize": 32,
 				"name": "forward",
@@ -1131,7 +1113,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 61,
+				"order": 60,
 				"id": 60,
 				"prevSize": 32,
 				"name": "chevron-up",
@@ -1154,7 +1136,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 62,
+				"order": 61,
 				"id": 61,
 				"prevSize": 32,
 				"name": "chevron-down",
@@ -1177,7 +1159,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 63,
+				"order": 62,
 				"id": 55,
 				"prevSize": 32,
 				"name": "double-angle-up",
@@ -1200,7 +1182,7 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 64,
+				"order": 63,
 				"id": 56,
 				"prevSize": 32,
 				"name": "double-angle-down",
@@ -1221,10 +1203,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 65,
+				"order": 64,
 				"id": 17,
 				"prevSize": 32,
-				"name": "uniE005",
+				"name": "pacman",
 				"ligatures": "",
 				"code": 57349
 			}
@@ -1241,10 +1223,10 @@
 				"grid": 16
 			},
 			"properties": {
-				"order": 66,
+				"order": 65,
 				"id": 2,
 				"prevSize": 32,
-				"name": "uniE001",
+				"name": "actionbound",
 				"ligatures": "",
 				"code": 57345
 			}
@@ -1265,7 +1247,7 @@
 			},
 			"properties": {
 				"id": 80,
-				"order": 67,
+				"order": 66,
 				"prevSize": 28,
 				"code": 58891,
 				"name": "plus-sign",
@@ -1289,7 +1271,7 @@
 			},
 			"properties": {
 				"id": 81,
-				"order": 68,
+				"order": 67,
 				"prevSize": 28,
 				"code": 58892,
 				"name": "minus-sign",
@@ -1311,7 +1293,7 @@
 			},
 			"properties": {
 				"id": 97,
-				"order": 69,
+				"order": 68,
 				"prevSize": 28,
 				"code": 58895,
 				"name": "plus",
@@ -1334,7 +1316,7 @@
 			},
 			"properties": {
 				"id": 98,
-				"order": 70,
+				"order": 69,
 				"prevSize": 28,
 				"code": 58896,
 				"name": "minus",
@@ -1358,10 +1340,10 @@
 			},
 			"properties": {
 				"id": 87,
-				"order": 71,
+				"order": 70,
 				"prevSize": 28,
 				"code": 58897,
-				"name": "remove-circle",
+				"name": "cancel-circle",
 				"ligatures": ""
 			}
 		},
@@ -1381,17 +1363,37 @@
 			},
 			"properties": {
 				"id": 88,
-				"order": 72,
+				"order": 71,
 				"prevSize": 28,
 				"code": 58898,
-				"name": "ok-circle",
+				"name": "check-circle",
+				"ligatures": ""
+			}
+		},
+		{
+			"icon": {
+				"width": 951,
+				"paths": [
+					"M219.429 877.714h512v-146.286h-512v146.286zM219.429 512h512v-219.429h-91.429q-22.857 0-38.857-16t-16-38.857v-91.429h-365.714v365.714zM877.714 548.571q0-14.857-10.857-25.714t-25.714-10.857-25.714 10.857-10.857 25.714 10.857 25.714 25.714 10.857 25.714-10.857 10.857-25.714zM950.857 548.571v237.714q0 7.429-5.429 12.857t-12.857 5.429h-128v91.429q0 22.857-16 38.857t-38.857 16h-548.571q-22.857 0-38.857-16t-16-38.857v-91.429h-128q-7.429 0-12.857-5.429t-5.429-12.857v-237.714q0-45.143 32.286-77.429t77.429-32.286h36.571v-310.857q0-22.857 16-38.857t38.857-16h384q22.857 0 50.286 11.429t43.429 27.429l86.857 86.857q16 16 27.429 43.429t11.429 50.286v146.286h36.571q45.143 0 77.429 32.286t32.286 77.429z"
+				],
+				"tags": [
+					"print"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 44,
+				"order": 72,
+				"prevSize": 28,
+				"code": 58899,
+				"name": "print",
 				"ligatures": ""
 			}
 		}
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "Actionbound 1.2"
+		"name": "Actionbound-13"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -1399,7 +1401,7 @@
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "Actionbound 1.2"
+				"fontFamily": "Actionbound-13"
 			},
 			"metrics": {
 				"emSize": 1024,
