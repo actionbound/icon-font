@@ -242,3 +242,12 @@
 .icon-download:before {
 	content: "\e614";
 }
+.icon-check-empty:before {
+	content: "\e615";
+}
+.icon-check-checked:before {
+	content: "\e616";
+}
+.icon-remove-sign:before {
+	content: "\e617";
+}
