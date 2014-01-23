@@ -634,7 +634,7 @@
 				"order": 34,
 				"id": 31,
 				"prevSize": 32,
-				"name": "on off",
+				"name": "on-off",
 				"ligatures": "",
 				"code": 57359
 			}
@@ -704,7 +704,7 @@
 				"order": 38,
 				"id": 35,
 				"prevSize": 32,
-				"name": "uniE012",
+				"name": "road-sign",
 				"ligatures": "",
 				"code": 57362
 			}
