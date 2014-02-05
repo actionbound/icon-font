@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot');
-	src:url('fonts/Actionbound-14.eot?#iefix') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff') format('woff'),
-		url('fonts/Actionbound-14.ttf') format('truetype'),
-		url('fonts/Actionbound-14.svg#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?b12zou');
+	src:url('fonts/Actionbound-14.eot?#iefixb12zou') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?b12zou') format('woff'),
+		url('fonts/Actionbound-14.ttf?b12zou') format('truetype'),
+		url('fonts/Actionbound-14.svg?b12zou#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -29,10 +29,10 @@
 .icon-play:before {
 	content: "\f04b";
 }
-.icon-playcircle:before {
+.icon-play-circle:before {
 	content: "\f01d";
 }
-.icon-playcircleinvert:before {
+.icon-play-circleinvert:before {
 	content: "\f144";
 }
 .icon-music:before {
@@ -46,9 +46,6 @@
 }
 .icon-qr:before {
 	content: "\f029";
-}
-.icon-placemark:before {
-	content: "\e607";
 }
 .icon-directions:before {
 	content: "\e608";
@@ -230,6 +227,9 @@
 .icon-minus:before {
 	content: "\e610";
 }
+.icon-remove-sign:before {
+	content: "\e617";
+}
 .icon-cancel-circle:before {
 	content: "\e611";
 }
@@ -248,6 +248,57 @@
 .icon-check-checked:before {
 	content: "\e616";
 }
-.icon-remove-sign:before {
-	content: "\e617";
+.icon-placemark:before {
+	content: "\e607";
+}
+.icon-rocket:before {
+	content: "\e618";
+}
+.icon-cc-by:before {
+	content: "\e619";
+}
+.icon-cc-nc:before {
+	content: "\e61a";
+}
+.icon-cc-nc-eu:before {
+	content: "\e61b";
+}
+.icon-cc-nc-jp:before {
+	content: "\e61c";
+}
+.icon-cc-sa:before {
+	content: "\e61d";
+}
+.icon-cc-nd:before {
+	content: "\e61e";
+}
+.icon-cc-pd:before {
+	content: "\e61f";
+}
+.icon-cc-zero:before {
+	content: "\e620";
+}
+.icon-cc-share:before {
+	content: "\e621";
+}
+.icon-löschen:before {
+	content: "\e622";
+}
+.icon-beer:before {
+	content: "\e623";
+}
+.icon-car:before {
+	content: "\e624";
+}
+.icon-bus:before {
+	content: "\e625";
+}
+.icon-lock:before {
+	content: "\e626";
+}
+.icon-unlock:before {
+	content: "\e627";
+}
+.icon-cc:before {
+	content: "\e628";
 }
