@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?pw51p4');
-	src:url('fonts/Actionbound-14.eot?#iefixpw51p4') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?pw51p4') format('woff'),
-		url('fonts/Actionbound-14.ttf?pw51p4') format('truetype'),
-		url('fonts/Actionbound-14.svg?pw51p4#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?b12zou');
+	src:url('fonts/Actionbound-14.eot?#iefixb12zou') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?b12zou') format('woff'),
+		url('fonts/Actionbound-14.ttf?b12zou') format('truetype'),
+		url('fonts/Actionbound-14.svg?b12zou#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -281,7 +281,7 @@
 .icon-cc-share:before {
 	content: "\e621";
 }
-.icon-bike:before {
+.icon-löschen:before {
 	content: "\e622";
 }
 .icon-beer:before {
