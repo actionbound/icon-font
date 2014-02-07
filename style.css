@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?pw51p4');
-	src:url('fonts/Actionbound-14.eot?#iefixpw51p4') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?pw51p4') format('woff'),
-		url('fonts/Actionbound-14.ttf?pw51p4') format('truetype'),
-		url('fonts/Actionbound-14.svg?pw51p4#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?-xz0yy7');
+	src:url('fonts/Actionbound-14.eot?#iefix-xz0yy7') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?-xz0yy7') format('woff'),
+		url('fonts/Actionbound-14.ttf?-xz0yy7') format('truetype'),
+		url('fonts/Actionbound-14.svg?-xz0yy7#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -301,4 +301,22 @@
 }
 .icon-cc:before {
 	content: "\e628";
+}
+.icon-city:before {
+	content: "\e629";
+}
+.icon-fun:before {
+	content: "\e62a";
+}
+.icon-outdoors:before {
+	content: "\e62b";
+}
+.icon-sightseeing:before {
+	content: "\e62c";
+}
+.icon-education:before {
+	content: "\e62d";
+}
+.icon-event:before {
+	content: "\e62e";
 }
