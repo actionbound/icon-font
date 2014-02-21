@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-xz0yy7');
-	src:url('fonts/Actionbound-14.eot?#iefix-xz0yy7') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?-xz0yy7') format('woff'),
-		url('fonts/Actionbound-14.ttf?-xz0yy7') format('truetype'),
-		url('fonts/Actionbound-14.svg?-xz0yy7#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?-8jjcc8');
+	src:url('fonts/Actionbound-14.eot?#iefix-8jjcc8') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?-8jjcc8') format('woff'),
+		url('fonts/Actionbound-14.ttf?-8jjcc8') format('truetype'),
+		url('fonts/Actionbound-14.svg?-8jjcc8#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -28,9 +28,6 @@
 }
 .icon-play:before {
 	content: "\f04b";
-}
-.icon-play-circle:before {
-	content: "\f01d";
 }
 .icon-play-circleinvert:before {
 	content: "\f144";
@@ -127,9 +124,6 @@
 }
 .icon-tags:before {
 	content: "\f02c";
-}
-.icon-time:before {
-	content: "\e011";
 }
 .icon-road-sign:before {
 	content: "\e012";
@@ -263,9 +257,6 @@
 .icon-cc-nc-eu:before {
 	content: "\e61b";
 }
-.icon-cc-nc-jp:before {
-	content: "\e61c";
-}
 .icon-cc-sa:before {
 	content: "\e61d";
 }
@@ -319,4 +310,49 @@
 }
 .icon-event:before {
 	content: "\e62e";
+}
+.icon-trophy:before {
+	content: "\e62f";
+}
+.icon-map:before {
+	content: "\e635";
+}
+.icon-type:before {
+	content: "\e636";
+}
+.icon-video-cam:before {
+	content: "\e630";
+}
+.icon-list:before {
+	content: "\e637";
+}
+.icon-laurel.png:before {
+	content: "\e631";
+}
+.icon-points:before {
+	content: "\e632";
+}
+.icon-camera:before {
+	content: "\e633";
+}
+.icon-problem:before {
+	content: "\e639";
+}
+.icon-nope:before {
+	content: "\e634";
+}
+.icon-play-circle:before {
+	content: "\e63a";
+}
+.icon-stop-circle:before {
+	content: "\e63b";
+}
+.icon-pause-circle:before {
+	content: "\e63c";
+}
+.icon-time:before {
+	content: "\e638";
+}
+.icon-stop:before {
+	content: "\e61c";
 }
