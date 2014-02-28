@@ -17,7 +17,7 @@
 				"id": 17,
 				"order": 1,
 				"prevSize": 20,
-				"code": 58886,
+				"code": 58880,
 				"name": "export",
 				"ligatures": ""
 			},
@@ -42,7 +42,7 @@
 				"prevSize": 20,
 				"name": "play",
 				"ligatures": "",
-				"code": 61515
+				"code": 58881
 			},
 			"setIdx": 0,
 			"iconIdx": 1
@@ -65,7 +65,7 @@
 				"prevSize": 20,
 				"name": "play-circle invert",
 				"ligatures": "",
-				"code": 61764
+				"code": 58882
 			},
 			"setIdx": 0,
 			"iconIdx": 2
@@ -88,7 +88,7 @@
 				"prevSize": 20,
 				"name": "music",
 				"ligatures": "",
-				"code": 61441
+				"code": 58883
 			},
 			"setIdx": 0,
 			"iconIdx": 3
@@ -111,7 +111,7 @@
 				"prevSize": 20,
 				"name": "video",
 				"ligatures": "",
-				"code": 61448
+				"code": 58884
 			},
 			"setIdx": 0,
 			"iconIdx": 4
@@ -134,7 +134,7 @@
 				"prevSize": 20,
 				"name": "pic",
 				"ligatures": "",
-				"code": 61502
+				"code": 58885
 			},
 			"setIdx": 0,
 			"iconIdx": 5
@@ -157,7 +157,7 @@
 				"prevSize": 20,
 				"name": "qr",
 				"ligatures": "",
-				"code": 61481
+				"code": 58886
 			},
 			"setIdx": 0,
 			"iconIdx": 6
@@ -177,7 +177,7 @@
 				"id": 21,
 				"order": 8,
 				"prevSize": 20,
-				"code": 58888,
+				"code": 58887,
 				"name": "directions",
 				"ligatures": ""
 			},
@@ -199,7 +199,7 @@
 				"id": 20,
 				"order": 9,
 				"prevSize": 20,
-				"code": 58889,
+				"code": 58888,
 				"name": "compass",
 				"ligatures": ""
 			},
@@ -222,7 +222,7 @@
 				"id": 22,
 				"order": 10,
 				"prevSize": 20,
-				"code": 58890,
+				"code": 58889,
 				"name": "target",
 				"ligatures": ""
 			},
@@ -244,7 +244,7 @@
 				"prevSize": 20,
 				"name": "wrench",
 				"ligatures": "",
-				"code": 61613
+				"code": 58890
 			},
 			"setIdx": 0,
 			"iconIdx": 10
@@ -264,7 +264,7 @@
 				"prevSize": 20,
 				"name": "apple",
 				"ligatures": "",
-				"code": 61817
+				"code": 58891
 			},
 			"setIdx": 0,
 			"iconIdx": 11
@@ -284,7 +284,7 @@
 				"prevSize": 20,
 				"name": "android",
 				"ligatures": "",
-				"code": 61819
+				"code": 58892
 			},
 			"setIdx": 0,
 			"iconIdx": 12
@@ -304,7 +304,7 @@
 				"prevSize": 20,
 				"name": "windows",
 				"ligatures": "",
-				"code": 61818
+				"code": 58893
 			},
 			"setIdx": 0,
 			"iconIdx": 13
@@ -324,7 +324,7 @@
 				"prevSize": 20,
 				"name": "star",
 				"ligatures": "",
-				"code": 61445
+				"code": 58894
 			},
 			"setIdx": 0,
 			"iconIdx": 14
@@ -344,7 +344,7 @@
 				"prevSize": 20,
 				"name": "star half",
 				"ligatures": "",
-				"code": 61731
+				"code": 58895
 			},
 			"setIdx": 0,
 			"iconIdx": 15
@@ -364,7 +364,7 @@
 				"prevSize": 20,
 				"name": "star empty",
 				"ligatures": "",
-				"code": 61446
+				"code": 58896
 			},
 			"setIdx": 0,
 			"iconIdx": 16
@@ -383,7 +383,7 @@
 				"prevSize": 20,
 				"name": "verified",
 				"ligatures": "",
-				"code": 57346
+				"code": 58897
 			},
 			"setIdx": 0,
 			"iconIdx": 17
@@ -403,7 +403,7 @@
 				"prevSize": 20,
 				"name": "earth us",
 				"ligatures": "",
-				"code": 61612
+				"code": 58898
 			},
 			"setIdx": 0,
 			"iconIdx": 18
@@ -422,7 +422,7 @@
 				"prevSize": 20,
 				"name": "earth",
 				"ligatures": "",
-				"code": 57347
+				"code": 58899
 			},
 			"setIdx": 0,
 			"iconIdx": 19
@@ -442,7 +442,7 @@
 				"prevSize": 20,
 				"name": "trash",
 				"ligatures": "",
-				"code": 61460
+				"code": 58900
 			},
 			"setIdx": 0,
 			"iconIdx": 20
@@ -464,7 +464,7 @@
 				"prevSize": 20,
 				"name": "flag",
 				"ligatures": "",
-				"code": 57350
+				"code": 58901
 			},
 			"setIdx": 0,
 			"iconIdx": 21
@@ -483,7 +483,7 @@
 				"prevSize": 20,
 				"name": "info",
 				"ligatures": "",
-				"code": 57351
+				"code": 58902
 			},
 			"setIdx": 0,
 			"iconIdx": 22
@@ -502,7 +502,7 @@
 				"prevSize": 20,
 				"name": "question",
 				"ligatures": "",
-				"code": 57352
+				"code": 58903
 			},
 			"setIdx": 0,
 			"iconIdx": 23
@@ -522,7 +522,7 @@
 				"prevSize": 20,
 				"name": "attention",
 				"ligatures": "",
-				"code": 61546
+				"code": 58904
 			},
 			"setIdx": 0,
 			"iconIdx": 24
@@ -541,7 +541,7 @@
 				"prevSize": 20,
 				"name": "bubbles",
 				"ligatures": "",
-				"code": 61574
+				"code": 58905
 			},
 			"setIdx": 0,
 			"iconIdx": 25
@@ -560,7 +560,7 @@
 				"prevSize": 20,
 				"name": "feather",
 				"ligatures": "",
-				"code": 57353
+				"code": 58906
 			},
 			"setIdx": 0,
 			"iconIdx": 26
@@ -579,7 +579,7 @@
 				"prevSize": 20,
 				"name": "vimeo",
 				"ligatures": "",
-				"code": 57355
+				"code": 58907
 			},
 			"setIdx": 0,
 			"iconIdx": 27
@@ -598,7 +598,7 @@
 				"prevSize": 20,
 				"name": "facebook",
 				"ligatures": "",
-				"code": 57356
+				"code": 58908
 			},
 			"setIdx": 0,
 			"iconIdx": 28
@@ -617,7 +617,7 @@
 				"prevSize": 20,
 				"name": "twitter",
 				"ligatures": "",
-				"code": 57357
+				"code": 58909
 			},
 			"setIdx": 0,
 			"iconIdx": 29
@@ -636,7 +636,7 @@
 				"prevSize": 20,
 				"name": "google plus",
 				"ligatures": "",
-				"code": 57358
+				"code": 58910
 			},
 			"setIdx": 0,
 			"iconIdx": 30
@@ -655,7 +655,7 @@
 				"prevSize": 20,
 				"name": "on-off",
 				"ligatures": "",
-				"code": 57359
+				"code": 58911
 			},
 			"setIdx": 0,
 			"iconIdx": 31
@@ -675,7 +675,7 @@
 				"prevSize": 20,
 				"name": "tag",
 				"ligatures": "",
-				"code": 61483
+				"code": 58912
 			},
 			"setIdx": 0,
 			"iconIdx": 32
@@ -695,7 +695,7 @@
 				"prevSize": 20,
 				"name": "tags",
 				"ligatures": "",
-				"code": 61484
+				"code": 58913
 			},
 			"setIdx": 0,
 			"iconIdx": 33
@@ -714,7 +714,7 @@
 				"prevSize": 20,
 				"name": "road-sign",
 				"ligatures": "",
-				"code": 57362
+				"code": 58914
 			},
 			"setIdx": 0,
 			"iconIdx": 34
@@ -734,7 +734,7 @@
 				"prevSize": 20,
 				"name": "loader",
 				"ligatures": "",
-				"code": 61712
+				"code": 58915
 			},
 			"setIdx": 0,
 			"iconIdx": 35
@@ -754,7 +754,7 @@
 				"prevSize": 20,
 				"name": "bug",
 				"ligatures": "",
-				"code": 61832
+				"code": 58916
 			},
 			"setIdx": 0,
 			"iconIdx": 36
@@ -774,7 +774,7 @@
 				"prevSize": 20,
 				"name": "distance",
 				"ligatures": "",
-				"code": 61464
+				"code": 58917
 			},
 			"setIdx": 0,
 			"iconIdx": 37
@@ -793,7 +793,7 @@
 				"prevSize": 20,
 				"name": "single player",
 				"ligatures": "",
-				"code": 57363
+				"code": 58918
 			},
 			"setIdx": 0,
 			"iconIdx": 38
@@ -812,7 +812,7 @@
 				"prevSize": 20,
 				"name": "multi player",
 				"ligatures": "",
-				"code": 57364
+				"code": 58919
 			},
 			"setIdx": 0,
 			"iconIdx": 39
@@ -832,7 +832,7 @@
 				"prevSize": 20,
 				"name": "italic",
 				"ligatures": "",
-				"code": 61491
+				"code": 58920
 			},
 			"setIdx": 0,
 			"iconIdx": 40
@@ -852,7 +852,7 @@
 				"prevSize": 20,
 				"name": "bold",
 				"ligatures": "",
-				"code": 61490
+				"code": 58921
 			},
 			"setIdx": 0,
 			"iconIdx": 41
@@ -871,7 +871,7 @@
 				"prevSize": 20,
 				"name": "link",
 				"ligatures": "",
-				"code": 57365
+				"code": 58922
 			},
 			"setIdx": 0,
 			"iconIdx": 42
@@ -890,7 +890,7 @@
 				"prevSize": 20,
 				"name": "check",
 				"ligatures": "",
-				"code": 61452
+				"code": 58923
 			},
 			"setIdx": 0,
 			"iconIdx": 43
@@ -910,7 +910,7 @@
 				"prevSize": 20,
 				"name": "cancel",
 				"ligatures": "",
-				"code": 61453
+				"code": 58924
 			},
 			"setIdx": 0,
 			"iconIdx": 44
@@ -929,7 +929,7 @@
 				"prevSize": 20,
 				"name": "love",
 				"ligatures": "",
-				"code": 61444
+				"code": 58925
 			},
 			"setIdx": 0,
 			"iconIdx": 45
@@ -948,7 +948,7 @@
 				"prevSize": 20,
 				"name": "law",
 				"ligatures": "",
-				"code": 57344
+				"code": 58926
 			},
 			"setIdx": 0,
 			"iconIdx": 46
@@ -967,7 +967,7 @@
 				"prevSize": 20,
 				"name": "copy",
 				"ligatures": "",
-				"code": 61637
+				"code": 58927
 			},
 			"setIdx": 0,
 			"iconIdx": 47
@@ -986,7 +986,7 @@
 				"prevSize": 20,
 				"name": "upload",
 				"ligatures": "",
-				"code": 57366
+				"code": 58928
 			},
 			"setIdx": 0,
 			"iconIdx": 48
@@ -1005,7 +1005,7 @@
 				"prevSize": 20,
 				"name": "berlin",
 				"ligatures": "",
-				"code": 57360
+				"code": 58929
 			},
 			"setIdx": 0,
 			"iconIdx": 49
@@ -1024,7 +1024,7 @@
 				"prevSize": 20,
 				"name": "pen",
 				"ligatures": "",
-				"code": 57348
+				"code": 58930
 			},
 			"setIdx": 0,
 			"iconIdx": 50
@@ -1044,7 +1044,7 @@
 				"prevSize": 20,
 				"name": "search",
 				"ligatures": "",
-				"code": 61442
+				"code": 58931
 			},
 			"setIdx": 0,
 			"iconIdx": 51
@@ -1067,7 +1067,7 @@
 				"order": 53,
 				"id": 64,
 				"prevSize": 20,
-				"code": 58882,
+				"code": 58932,
 				"name": "redo",
 				"ligatures": ""
 			},
@@ -1092,7 +1092,7 @@
 				"order": 54,
 				"id": 65,
 				"prevSize": 20,
-				"code": 58883,
+				"code": 58933,
 				"name": "undo",
 				"ligatures": ""
 			},
@@ -1121,7 +1121,7 @@
 				"prevSize": 20,
 				"name": "reply",
 				"ligatures": "",
-				"code": 58893
+				"code": 58934
 			},
 			"setIdx": 0,
 			"iconIdx": 54
@@ -1145,7 +1145,7 @@
 				"prevSize": 20,
 				"name": "forward",
 				"ligatures": "",
-				"code": 58894
+				"code": 58935
 			},
 			"setIdx": 0,
 			"iconIdx": 55
@@ -1170,7 +1170,7 @@
 				"prevSize": 20,
 				"name": "chevron-up",
 				"ligatures": "",
-				"code": 58884
+				"code": 58936
 			},
 			"setIdx": 0,
 			"iconIdx": 56
@@ -1195,7 +1195,7 @@
 				"prevSize": 20,
 				"name": "chevron-down",
 				"ligatures": "",
-				"code": 58885
+				"code": 58937
 			},
 			"setIdx": 0,
 			"iconIdx": 57
@@ -1220,7 +1220,7 @@
 				"prevSize": 20,
 				"name": "double-angle-up",
 				"ligatures": "",
-				"code": 58880
+				"code": 58938
 			},
 			"setIdx": 0,
 			"iconIdx": 58
@@ -1245,7 +1245,7 @@
 				"prevSize": 20,
 				"name": "double-angle-down",
 				"ligatures": "",
-				"code": 58881
+				"code": 58939
 			},
 			"setIdx": 0,
 			"iconIdx": 59
@@ -1268,7 +1268,7 @@
 				"prevSize": 20,
 				"name": "pacman",
 				"ligatures": "",
-				"code": 57349
+				"code": 58940
 			},
 			"setIdx": 0,
 			"iconIdx": 60
@@ -1290,7 +1290,7 @@
 				"prevSize": 20,
 				"name": "actionbound",
 				"ligatures": "",
-				"code": 57345
+				"code": 58941
 			},
 			"setIdx": 0,
 			"iconIdx": 61
@@ -1313,7 +1313,7 @@
 				"id": 80,
 				"order": 63,
 				"prevSize": 20,
-				"code": 58891,
+				"code": 58942,
 				"name": "plus-sign",
 				"ligatures": ""
 			},
@@ -1339,7 +1339,7 @@
 				"id": 81,
 				"order": 64,
 				"prevSize": 20,
-				"code": 58892,
+				"code": 58943,
 				"name": "minus-sign",
 				"ligatures": ""
 			},
@@ -1363,7 +1363,7 @@
 				"id": 97,
 				"order": 65,
 				"prevSize": 20,
-				"code": 58895,
+				"code": 58944,
 				"name": "plus",
 				"ligatures": ""
 			},
@@ -1388,7 +1388,7 @@
 				"id": 98,
 				"order": 66,
 				"prevSize": 20,
-				"code": 58896,
+				"code": 58945,
 				"name": "minus",
 				"ligatures": ""
 			},
@@ -1415,7 +1415,7 @@
 				"id": 82,
 				"order": 67,
 				"prevSize": 20,
-				"code": 58903,
+				"code": 58946,
 				"name": "remove-sign",
 				"ligatures": ""
 			},
@@ -1441,7 +1441,7 @@
 				"id": 87,
 				"order": 68,
 				"prevSize": 20,
-				"code": 58897,
+				"code": 58947,
 				"name": "cancel-circle",
 				"ligatures": ""
 			},
@@ -1466,8 +1466,8 @@
 				"id": 88,
 				"order": 69,
 				"prevSize": 20,
-				"code": 58898,
-				"name": "check-circle",
+				"code": 58948,
+				"name": "check-circle-panel",
 				"ligatures": ""
 			},
 			"setIdx": 0,
@@ -1488,7 +1488,7 @@
 				"id": 44,
 				"order": 70,
 				"prevSize": 20,
-				"code": 58899,
+				"code": 58949,
 				"name": "print",
 				"ligatures": ""
 			},
@@ -1513,7 +1513,7 @@
 				"id": 24,
 				"order": 71,
 				"prevSize": 20,
-				"code": 58900,
+				"code": 58950,
 				"name": "download",
 				"ligatures": ""
 			},
@@ -1537,7 +1537,7 @@
 				"id": 141,
 				"order": 72,
 				"prevSize": 20,
-				"code": 58901,
+				"code": 58951,
 				"name": "check-empty",
 				"ligatures": ""
 			},
@@ -1562,7 +1562,7 @@
 				"id": 66,
 				"order": 73,
 				"prevSize": 20,
-				"code": 58902,
+				"code": 58952,
 				"name": "check-checked",
 				"ligatures": ""
 			},
@@ -1586,7 +1586,7 @@
 				"id": 18,
 				"order": 74,
 				"prevSize": 20,
-				"code": 58887,
+				"code": 58953,
 				"name": "placemark",
 				"ligatures": ""
 			},
@@ -1612,7 +1612,7 @@
 				"id": 80,
 				"order": 75,
 				"prevSize": 20,
-				"code": 58904,
+				"code": 58954,
 				"name": "rocket",
 				"ligatures": ""
 			},
@@ -1634,7 +1634,7 @@
 				"id": 226,
 				"order": 76,
 				"prevSize": 20,
-				"code": 58905,
+				"code": 58955,
 				"name": "cc-by",
 				"ligatures": ""
 			},
@@ -1656,7 +1656,7 @@
 				"id": 227,
 				"order": 77,
 				"prevSize": 20,
-				"code": 58906,
+				"code": 58956,
 				"name": "cc-nc",
 				"ligatures": ""
 			},
@@ -1678,7 +1678,7 @@
 				"id": 228,
 				"order": 78,
 				"prevSize": 20,
-				"code": 58907,
+				"code": 58957,
 				"name": "cc-nc-eu",
 				"ligatures": ""
 			},
@@ -1700,7 +1700,7 @@
 				"id": 230,
 				"order": 79,
 				"prevSize": 20,
-				"code": 58909,
+				"code": 58958,
 				"name": "cc-sa",
 				"ligatures": ""
 			},
@@ -1722,7 +1722,7 @@
 				"id": 231,
 				"order": 80,
 				"prevSize": 20,
-				"code": 58910,
+				"code": 58959,
 				"name": "cc-nd",
 				"ligatures": ""
 			},
@@ -1744,7 +1744,7 @@
 				"id": 232,
 				"order": 81,
 				"prevSize": 20,
-				"code": 58911,
+				"code": 58960,
 				"name": "cc-pd",
 				"ligatures": ""
 			},
@@ -1766,7 +1766,7 @@
 				"id": 233,
 				"order": 82,
 				"prevSize": 20,
-				"code": 58912,
+				"code": 58961,
 				"name": "cc-zero",
 				"ligatures": ""
 			},
@@ -1788,7 +1788,7 @@
 				"id": 234,
 				"order": 83,
 				"prevSize": 20,
-				"code": 58913,
+				"code": 58962,
 				"name": "cc-share",
 				"ligatures": ""
 			},
@@ -1810,7 +1810,7 @@
 				"order": 84,
 				"id": 142,
 				"prevSize": 20,
-				"code": 58914,
+				"code": 58963,
 				"name": "bike",
 				"ligatures": ""
 			},
@@ -1834,7 +1834,7 @@
 				"order": 85,
 				"id": 145,
 				"prevSize": 20,
-				"code": 58915,
+				"code": 58964,
 				"name": "beer",
 				"ligatures": ""
 			},
@@ -1855,7 +1855,7 @@
 				"order": 86,
 				"id": 146,
 				"prevSize": 20,
-				"code": 58916,
+				"code": 58965,
 				"name": "car",
 				"ligatures": ""
 			},
@@ -1876,7 +1876,7 @@
 				"order": 87,
 				"id": 147,
 				"prevSize": 20,
-				"code": 58917,
+				"code": 58966,
 				"name": "bus",
 				"ligatures": ""
 			},
@@ -1903,7 +1903,7 @@
 				"id": 32,
 				"order": 88,
 				"prevSize": 20,
-				"code": 58918,
+				"code": 58967,
 				"name": "lock",
 				"ligatures": ""
 			},
@@ -1927,7 +1927,7 @@
 				"id": 287,
 				"order": 89,
 				"prevSize": 20,
-				"code": 58919,
+				"code": 58968,
 				"name": "unlock",
 				"ligatures": ""
 			},
@@ -1949,7 +1949,7 @@
 				"id": 225,
 				"order": 90,
 				"prevSize": 20,
-				"code": 58920,
+				"code": 58969,
 				"name": "cc",
 				"ligatures": ""
 			},
@@ -1971,7 +1971,7 @@
 				"order": 91,
 				"id": 3,
 				"prevSize": 20,
-				"code": 58921,
+				"code": 58970,
 				"name": "city",
 				"ligatures": ""
 			},
@@ -1995,7 +1995,7 @@
 				"order": 92,
 				"id": 2,
 				"prevSize": 20,
-				"code": 58922,
+				"code": 58971,
 				"name": "fun",
 				"ligatures": ""
 			},
@@ -2017,7 +2017,7 @@
 				"order": 93,
 				"id": 1,
 				"prevSize": 20,
-				"code": 58923,
+				"code": 58972,
 				"name": "outdoors",
 				"ligatures": ""
 			},
@@ -2038,7 +2038,7 @@
 				"order": 94,
 				"id": 0,
 				"prevSize": 20,
-				"code": 58924,
+				"code": 58973,
 				"name": "sightseeing",
 				"ligatures": ""
 			},
@@ -2059,7 +2059,7 @@
 				"order": 95,
 				"id": 5,
 				"prevSize": 20,
-				"code": 58925,
+				"code": 58974,
 				"name": "education",
 				"ligatures": ""
 			},
@@ -2080,7 +2080,7 @@
 				"order": 96,
 				"id": 4,
 				"prevSize": 20,
-				"code": 58926,
+				"code": 58975,
 				"name": "event",
 				"ligatures": ""
 			},
@@ -2107,7 +2107,7 @@
 				"id": 136,
 				"order": 97,
 				"prevSize": 20,
-				"code": 58927,
+				"code": 58976,
 				"name": "trophy",
 				"ligatures": ""
 			},
@@ -2132,7 +2132,7 @@
 				"id": 115,
 				"order": 98,
 				"prevSize": 20,
-				"code": 58933,
+				"code": 58977,
 				"name": "map",
 				"ligatures": ""
 			},
@@ -2157,7 +2157,7 @@
 				"id": 0,
 				"order": 99,
 				"prevSize": 20,
-				"code": 58934,
+				"code": 58978,
 				"name": "type",
 				"ligatures": ""
 			},
@@ -2182,7 +2182,7 @@
 				"id": 58,
 				"order": 100,
 				"prevSize": 20,
-				"code": 58928,
+				"code": 58979,
 				"name": "video-cam",
 				"ligatures": ""
 			},
@@ -2206,7 +2206,7 @@
 				"id": 150,
 				"order": 101,
 				"prevSize": 20,
-				"code": 58935,
+				"code": 58980,
 				"name": "list",
 				"ligatures": ""
 			},
@@ -2300,8 +2300,8 @@
 				"order": 102,
 				"id": 288,
 				"prevSize": 20,
-				"code": 58929,
-				"name": "laurel.png",
+				"code": 58981,
+				"name": "laurel",
 				"ligatures": ""
 			},
 			"setIdx": 0,
@@ -2322,7 +2322,7 @@
 				"order": 103,
 				"id": 289,
 				"prevSize": 20,
-				"code": 58930,
+				"code": 58982,
 				"name": "points",
 				"ligatures": ""
 			},
@@ -2347,7 +2347,7 @@
 				"id": 45,
 				"order": 104,
 				"prevSize": 20,
-				"code": 58931,
+				"code": 58983,
 				"name": "camera",
 				"ligatures": ""
 			},
@@ -2371,7 +2371,7 @@
 				"id": 40,
 				"order": 105,
 				"prevSize": 20,
-				"code": 58937,
+				"code": 58984,
 				"name": "problem",
 				"ligatures": ""
 			},
@@ -2396,7 +2396,7 @@
 				"id": 253,
 				"order": 106,
 				"prevSize": 20,
-				"code": 58932,
+				"code": 58985,
 				"name": "nope",
 				"ligatures": ""
 			},
@@ -2418,7 +2418,7 @@
 				"order": 107,
 				"id": 0,
 				"prevSize": 20,
-				"code": 58938,
+				"code": 58986,
 				"name": "play-circle",
 				"ligatures": ""
 			},
@@ -2440,7 +2440,7 @@
 				"order": 108,
 				"id": 1,
 				"prevSize": 20,
-				"code": 58939,
+				"code": 58987,
 				"name": "stop-circle",
 				"ligatures": ""
 			},
@@ -2463,7 +2463,7 @@
 				"order": 109,
 				"id": 2,
 				"prevSize": 20,
-				"code": 58940,
+				"code": 58988,
 				"name": "pause-circle",
 				"ligatures": ""
 			},
@@ -2486,12 +2486,12 @@
 				"id": 61,
 				"order": 110,
 				"prevSize": 20,
-				"code": 58936,
+				"code": 58989,
 				"name": "time",
 				"ligatures": ""
 			},
 			"setIdx": 0,
-			"iconIdx": 110
+			"iconIdx": 109
 		},
 		{
 			"icon": {
@@ -2508,12 +2508,12 @@
 				"order": 111,
 				"id": 0,
 				"prevSize": 20,
-				"code": 58908,
-				"name": "stop",
+				"code": 58990,
+				"name": "check-circle-alt",
 				"ligatures": ""
 			},
 			"setIdx": 0,
-			"iconIdx": 109
+			"iconIdx": 110
 		}
 	],
 	"height": 1024,
