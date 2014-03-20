@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-m14g75');
-	src:url('fonts/Actionbound-14.eot?#iefix-m14g75') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?-m14g75') format('woff'),
-		url('fonts/Actionbound-14.ttf?-m14g75') format('truetype'),
-		url('fonts/Actionbound-14.svg?-m14g75#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?p90eqw');
+	src:url('fonts/Actionbound-14.eot?#iefixp90eqw') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?p90eqw') format('woff'),
+		url('fonts/Actionbound-14.ttf?p90eqw') format('truetype'),
+		url('fonts/Actionbound-14.svg?p90eqw#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,18 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-abqr:before {
+	content: "\e66f";
+}
+.icon-kompass:before {
+	content: "\e670";
+}
+.icon-direction-up:before {
+	content: "\e671";
+}
+.icon-misc:before {
+	content: "\e672";
+}
 .icon-export:before {
 	content: "\e600";
 }
@@ -95,6 +107,9 @@
 .icon-question:before {
 	content: "\e617";
 }
+.icon-newbounds:before {
+	content: "\e673";
+}
 .icon-attention:before {
 	content: "\e618";
 }
@@ -136,6 +151,9 @@
 }
 .icon-distance:before {
 	content: "\e625";
+}
+.icon-multiplayer-large:before {
+	content: "\e674";
 }
 .icon-singleplayer:before {
 	content: "\e626";
@@ -355,4 +373,7 @@
 }
 .icon-check-circle-alt:before {
 	content: "\e66e";
+}
+.icon-share:before {
+	content: "\e675";
 }
