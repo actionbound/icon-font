@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?1x0i00');
-	src:url('fonts/Actionbound-14.eot?#iefix1x0i00') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?1x0i00') format('woff'),
-		url('fonts/Actionbound-14.ttf?1x0i00') format('truetype'),
-		url('fonts/Actionbound-14.svg?1x0i00#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?-wacrtl');
+	src:url('fonts/Actionbound-14.eot?#iefix-wacrtl') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?-wacrtl') format('woff'),
+		url('fonts/Actionbound-14.ttf?-wacrtl') format('truetype'),
+		url('fonts/Actionbound-14.svg?-wacrtl#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
