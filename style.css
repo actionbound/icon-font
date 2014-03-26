@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-oggj43');
-	src:url('fonts/Actionbound-14.eot?#iefix-oggj43') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?-oggj43') format('woff'),
-		url('fonts/Actionbound-14.ttf?-oggj43') format('truetype'),
-		url('fonts/Actionbound-14.svg?-oggj43#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?1x0i00');
+	src:url('fonts/Actionbound-14.eot?#iefix1x0i00') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?1x0i00') format('woff'),
+		url('fonts/Actionbound-14.ttf?1x0i00') format('truetype'),
+		url('fonts/Actionbound-14.svg?1x0i00#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -25,6 +25,9 @@
 
 .icon-abqr:before {
 	content: "\e66f";
+}
+.icon-road-sign:before {
+	content: "\e622";
 }
 .icon-kompass:before {
 	content: "\e670";
@@ -101,14 +104,17 @@
 .icon-flag:before {
 	content: "\e615";
 }
+.icon-newbounds:before {
+	content: "\e673";
+}
 .icon-info:before {
 	content: "\e616";
 }
+.icon-law:before {
+	content: "\e62e";
+}
 .icon-question:before {
 	content: "\e617";
-}
-.icon-newbounds:before {
-	content: "\e673";
 }
 .icon-attention:before {
 	content: "\e618";
@@ -139,9 +145,6 @@
 }
 .icon-tags:before {
 	content: "\e621";
-}
-.icon-road-sign:before {
-	content: "\e622";
 }
 .icon-loader:before {
 	content: "\e623";
@@ -178,9 +181,6 @@
 }
 .icon-love:before {
 	content: "\e62d";
-}
-.icon-law:before {
-	content: "\e62e";
 }
 .icon-copy:before {
 	content: "\e62f";
