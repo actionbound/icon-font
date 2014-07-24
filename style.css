@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-hown1p');
-	src:url('fonts/Actionbound-14.eot?#iefix-hown1p') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?-hown1p') format('woff'),
-		url('fonts/Actionbound-14.ttf?-hown1p') format('truetype'),
-		url('fonts/Actionbound-14.svg?-hown1p#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?b0rwm2');
+	src:url('fonts/Actionbound-14.eot?#iefixb0rwm2') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?b0rwm2') format('woff'),
+		url('fonts/Actionbound-14.ttf?b0rwm2') format('truetype'),
+		url('fonts/Actionbound-14.svg?b0rwm2#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -103,6 +103,9 @@
 }
 .icon-flag:before {
 	content: "\e615";
+}
+.icon-heldenausflug:before {
+	content: "\e676";
 }
 .icon-newbounds:before {
 	content: "\e673";
