@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-ecrsxm');
-	src:url('fonts/Actionbound-14.eot?#iefix-ecrsxm') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?-ecrsxm') format('woff'),
-		url('fonts/Actionbound-14.ttf?-ecrsxm') format('truetype'),
-		url('fonts/Actionbound-14.svg?-ecrsxm#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?b58g7s');
+	src:url('fonts/Actionbound-14.eot?#iefixb58g7s') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?b58g7s') format('woff'),
+		url('fonts/Actionbound-14.ttf?b58g7s') format('truetype'),
+		url('fonts/Actionbound-14.svg?b58g7s#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,12 +23,16 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-piechart:before {
+.icon-handledots:before {
 	content: "\e677";
 }
 
-.icon-piechartalt:before {
+.icon-piechart:before {
 	content: "\e678";
+}
+
+.icon-piechartalt:before {
+	content: "\e679";
 }
 
 .icon-abqr:before {
