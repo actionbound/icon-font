@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?b58g7s');
-	src:url('fonts/Actionbound-14.eot?#iefixb58g7s') format('embedded-opentype'),
-		url('fonts/Actionbound-14.woff?b58g7s') format('woff'),
-		url('fonts/Actionbound-14.ttf?b58g7s') format('truetype'),
-		url('fonts/Actionbound-14.svg?b58g7s#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?-x5tp9m');
+	src:url('fonts/Actionbound-14.eot?#iefix-x5tp9m') format('embedded-opentype'),
+		url('fonts/Actionbound-14.woff?-x5tp9m') format('woff'),
+		url('fonts/Actionbound-14.ttf?-x5tp9m') format('truetype'),
+		url('fonts/Actionbound-14.svg?-x5tp9m#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -21,6 +21,70 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bipa-logo:before {
+	content: "\e67a";
+}
+
+.icon-bipa-themen:before {
+	content: "\e67b";
+}
+
+.icon-bipa-geschichte:before {
+	content: "\e67c";
+}
+
+.icon-bipa-kunst:before {
+	content: "\e67d";
+}
+
+.icon-bipa-literatur:before {
+	content: "\e67e";
+}
+
+.icon-bipa-natur:before {
+	content: "\e67f";
+}
+
+.icon-bipa-technik:before {
+	content: "\e680";
+}
+
+.icon-bipa-sport:before {
+	content: "\e681";
+}
+
+.icon-bipa-archiv:before {
+	content: "\e682";
+}
+
+.icon-bipa-bibliothek:before {
+	content: "\e683";
+}
+
+.icon-bipa-gedenkstaette:before {
+	content: "\e684";
+}
+
+.icon-bipa-medienzentrum:before {
+	content: "\e685";
+}
+
+.icon-bipa-museum:before {
+	content: "\e686";
+}
+
+.icon-bipa-musikschule:before {
+	content: "\e687";
+}
+
+.icon-bipa-vhs:before {
+	content: "\e688";
+}
+
+.icon-bipa-sportverein:before {
+	content: "\e689";
 }
 
 .icon-handledots:before {
