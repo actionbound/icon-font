@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-k16lew');
-	src:url('fonts/Actionbound-14.eot?#iefix-k16lew') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?-k16lew') format('truetype'),
-		url('fonts/Actionbound-14.woff?-k16lew') format('woff'),
-		url('fonts/Actionbound-14.svg?-k16lew#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?7a2rj3');
+	src:url('fonts/Actionbound-14.eot?#iefix7a2rj3') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?7a2rj3') format('truetype'),
+		url('fonts/Actionbound-14.woff?7a2rj3') format('woff'),
+		url('fonts/Actionbound-14.svg?7a2rj3#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-stopwatch:before {
+	content: "\e68b";
+}
+.icon-estimation:before {
+	content: "\e68c";
+}
 .icon-ab-logo:before {
 	content: "\e68a";
 }
@@ -202,6 +208,9 @@
 }
 .icon-google plus:before {
 	content: "\e61e";
+}
+.icon-whatsapp:before {
+	content: "\f232";
 }
 .icon-on-off:before {
 	content: "\e61f";
@@ -409,6 +418,15 @@
 }
 .icon-list:before {
 	content: "\e664";
+}
+.icon-list-ul:before {
+	content: "\f0ca";
+}
+.icon-list-ol:before {
+	content: "\f0cb";
+}
+.icon-sort:before {
+	content: "\f160";
 }
 .icon-laurel:before {
 	content: "\e665";
