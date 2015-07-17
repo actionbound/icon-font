@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-qxu9bc');
-	src:url('fonts/Actionbound-14.eot?#iefix-qxu9bc') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?-qxu9bc') format('truetype'),
-		url('fonts/Actionbound-14.woff?-qxu9bc') format('woff'),
-		url('fonts/Actionbound-14.svg?-qxu9bc#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?-ffhwfh');
+	src:url('fonts/Actionbound-14.eot?#iefix-ffhwfh') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?-ffhwfh') format('truetype'),
+		url('fonts/Actionbound-14.woff?-ffhwfh') format('woff'),
+		url('fonts/Actionbound-14.svg?-ffhwfh#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -161,7 +161,7 @@
 .icon-verified:before {
 	content: "\e611";
 }
-.icon-earth us:before {
+.icon-earth-us:before {
 	content: "\e612";
 }
 .icon-earth:before {
@@ -284,6 +284,12 @@
 .icon-forward:before {
 	content: "\e637";
 }
+.icon-chevron-left:before {
+	content: "\e68d";
+}
+.icon-chevron-right:before {
+	content: "\e68e";
+}
 .icon-chevron-up:before {
 	content: "\e638";
 }
@@ -292,6 +298,12 @@
 }
 .icon-double-angle-up:before {
 	content: "\e63a";
+}
+.icon-double-angle-left:before {
+	content: "\e68f";
+}
+.icon-double-angle-right:before {
+	content: "\e690";
 }
 .icon-double-angle-down:before {
 	content: "\e63b";
