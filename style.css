@@ -1,18 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-<<<<<<< HEAD
 	src:url('fonts/Actionbound-14.eot?-hh41kf');
 	src:url('fonts/Actionbound-14.eot?#iefix-hh41kf') format('embedded-opentype'),
 		url('fonts/Actionbound-14.ttf?-hh41kf') format('truetype'),
 		url('fonts/Actionbound-14.woff?-hh41kf') format('woff'),
 		url('fonts/Actionbound-14.svg?-hh41kf#Actionbound-14') format('svg');
-=======
-	src:url('fonts/Actionbound-14.eot?-jy5wr8');
-	src:url('fonts/Actionbound-14.eot?#iefix-jy5wr8') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?-jy5wr8') format('truetype'),
-		url('fonts/Actionbound-14.woff?-jy5wr8') format('woff'),
-		url('fonts/Actionbound-14.svg?-jy5wr8#Actionbound-14') format('svg');
->>>>>>> origin/gh-pages
 	font-weight: normal;
 	font-style: normal;
 }
@@ -31,7 +23,6 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-<<<<<<< HEAD
 .icon-envelope-square:before {
 	content: "\e691";
 }
@@ -41,11 +32,6 @@
 .icon-envelope:before {
 	content: "\e693";
 }
-=======
-.icon-bpcqr:before {
-	content: "\e691";
-}
->>>>>>> origin/gh-pages
 .icon-stopwatch:before {
 	content: "\e68b";
 }
