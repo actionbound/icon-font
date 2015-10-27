@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?-hh41kf');
-	src:url('fonts/Actionbound-14.eot?#iefix-hh41kf') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?-hh41kf') format('truetype'),
-		url('fonts/Actionbound-14.woff?-hh41kf') format('woff'),
-		url('fonts/Actionbound-14.svg?-hh41kf#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?lkx083');
+	src:url('fonts/Actionbound-14.eot?lkx083#iefix') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?lkx083') format('truetype'),
+		url('fonts/Actionbound-14.woff?lkx083') format('woff'),
+		url('fonts/Actionbound-14.svg?lkx083#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,15 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-home:before {
+	content: "\e902";
+}
+.icon-tree:before {
+	content: "\e903";
+}
+.icon-bars:before {
+	content: "\e904";
+}
 .icon-envelope-square:before {
 	content: "\e691";
 }
@@ -140,6 +149,9 @@
 .icon-directions:before {
 	content: "\e607";
 }
+.icon-location-arrow:before {
+	content: "\e909";
+}
 .icon-compass:before {
 	content: "\e608";
 }
@@ -206,17 +218,17 @@
 .icon-feather:before {
 	content: "\e61a";
 }
-.icon-vimeo:before {
-	content: "\e61b";
-}
-.icon-facebook:before {
-	content: "\e61c";
+.icon-google-plus:before {
+	content: "\e900";
 }
 .icon-twitter:before {
-	content: "\e61d";
+	content: "\e905";
 }
-.icon-google-plus:before {
-	content: "\e61e";
+.icon-facebook:before {
+	content: "\e906";
+}
+.icon-vimeo:before {
+	content: "\e907";
 }
 .icon-whatsapp:before {
 	content: "\f232";
@@ -268,6 +280,12 @@
 }
 .icon-copy:before {
 	content: "\e62f";
+}
+.icon-paste:before {
+	content: "\e908";
+}
+.icon-clipboard:before {
+	content: "\e901";
 }
 .icon-upload:before {
 	content: "\e630";
@@ -429,6 +447,12 @@
 	content: "\e660";
 }
 .icon-map:before {
+	content: "\e90a";
+}
+.icon-map-invert:before {
+	content: "\e90b";
+}
+.icon-map-alt:before {
 	content: "\e661";
 }
 .icon-type:before {
@@ -482,3 +506,4 @@
 .icon-share:before {
 	content: "\e675";
 }
+
