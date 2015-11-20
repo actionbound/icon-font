@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?lkx083');
-	src:url('fonts/Actionbound-14.eot?lkx083#iefix') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?lkx083') format('truetype'),
-		url('fonts/Actionbound-14.woff?lkx083') format('woff'),
-		url('fonts/Actionbound-14.svg?lkx083#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?o5e6ph');
+	src:url('fonts/Actionbound-14.eot?o5e6ph#iefix') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?o5e6ph') format('truetype'),
+		url('fonts/Actionbound-14.woff?o5e6ph') format('woff'),
+		url('fonts/Actionbound-14.svg?o5e6ph#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,15 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-a-app-logo:before {
+	content: "\e90c";
+}
+.icon-a-logo:before {
+	content: "\e63d";
+}
+.icon-ab-logo:before {
+	content: "\e68a";
+}
 .icon-home:before {
 	content: "\e902";
 }
@@ -31,6 +40,12 @@
 }
 .icon-bars:before {
 	content: "\e904";
+}
+.icon-wrench:before {
+	content: "\e60a";
+}
+.icon-feather:before {
+	content: "\e61a";
 }
 .icon-envelope-square:before {
 	content: "\e691";
@@ -46,9 +61,6 @@
 }
 .icon-estimation:before {
 	content: "\e68c";
-}
-.icon-ab-logo:before {
-	content: "\e68a";
 }
 .icon-bipa-logo:before {
 	content: "\e67a";
@@ -125,7 +137,7 @@
 .icon-play:before {
 	content: "\e601";
 }
-.icon-play-circle invert:before {
+.icon-play-circle-invert:before {
 	content: "\e602";
 }
 .icon-music:before {
@@ -158,8 +170,8 @@
 .icon-target:before {
 	content: "\e609";
 }
-.icon-wrench:before {
-	content: "\e60a";
+.icon-mobile:before {
+	content: "\e90d";
 }
 .icon-apple:before {
 	content: "\e60b";
@@ -215,9 +227,6 @@
 .icon-bubbles:before {
 	content: "\e619";
 }
-.icon-feather:before {
-	content: "\e61a";
-}
 .icon-google-plus:before {
 	content: "\e900";
 }
@@ -232,9 +241,6 @@
 }
 .icon-whatsapp:before {
 	content: "\f232";
-}
-.icon-on-off:before {
-	content: "\e61f";
 }
 .icon-tag:before {
 	content: "\e620";
@@ -338,9 +344,6 @@
 .icon-pacman:before {
 	content: "\e63c";
 }
-.icon-a-logo:before {
-	content: "\e63d";
-}
 .icon-plus-sign:before {
 	content: "\e63e";
 }
@@ -416,6 +419,9 @@
 .icon-bus:before {
 	content: "\e656";
 }
+.icon-on-off:before {
+	content: "\e61f";
+}
 .icon-lock:before {
 	content: "\e657";
 }
@@ -430,6 +436,9 @@
 }
 .icon-fun:before {
 	content: "\e65b";
+}
+.icon-nope:before {
+	content: "\e669";
 }
 .icon-outdoors:before {
 	content: "\e65c";
@@ -485,9 +494,6 @@
 .icon-problem:before {
 	content: "\e668";
 }
-.icon-nope:before {
-	content: "\e669";
-}
 .icon-play-circle:before {
 	content: "\e66a";
 }
@@ -497,11 +503,11 @@
 .icon-pause-circle:before {
 	content: "\e66c";
 }
-.icon-time:before {
-	content: "\e66d";
-}
 .icon-check-circle-alt:before {
 	content: "\e66e";
+}
+.icon-time:before {
+	content: "\e66d";
 }
 .icon-share:before {
 	content: "\e675";
