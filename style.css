@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?24td41');
-	src:url('fonts/Actionbound-14.eot?24td41#iefix') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?24td41') format('truetype'),
-		url('fonts/Actionbound-14.woff?24td41') format('woff'),
-		url('fonts/Actionbound-14.svg?24td41#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?dipg3e');
+	src:url('fonts/Actionbound-14.eot?dipg3e#iefix') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?dipg3e') format('truetype'),
+		url('fonts/Actionbound-14.woff?dipg3e') format('woff'),
+		url('fonts/Actionbound-14.svg?dipg3e#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'Actionbound-14';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'Actionbound-14' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,6 +24,15 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-eye-closed:before {
+	content: "\e90e";
+}
+.icon-eye:before {
+	content: "\e90f";
+}
+.icon-triangle-down:before {
+	content: "\e910";
+}
 .icon-a-app-logo:before {
 	content: "\e90c";
 }
@@ -257,14 +267,14 @@
 .icon-distance:before {
 	content: "\e625";
 }
+.icon-single-player:before {
+	content: "\e911";
+}
 .icon-multiplayer-large:before {
 	content: "\e674";
 }
-.icon-single-player:before {
-	content: "\e626";
-}
 .icon-multi-player:before {
-	content: "\e627";
+	content: "\e912";
 }
 .icon-italic:before {
 	content: "\e628";
@@ -471,6 +481,9 @@
 	content: "\e663";
 }
 .icon-list:before {
+	content: "\e694";
+}
+.icon-list-large:before {
 	content: "\e664";
 }
 .icon-list-ul:before {
