@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Actionbound-14';
-	src:url('fonts/Actionbound-14.eot?dipg3e');
-	src:url('fonts/Actionbound-14.eot?dipg3e#iefix') format('embedded-opentype'),
-		url('fonts/Actionbound-14.ttf?dipg3e') format('truetype'),
-		url('fonts/Actionbound-14.woff?dipg3e') format('woff'),
-		url('fonts/Actionbound-14.svg?dipg3e#Actionbound-14') format('svg');
+	src:url('fonts/Actionbound-14.eot?ol2fn4');
+	src:url('fonts/Actionbound-14.eot?ol2fn4#iefix') format('embedded-opentype'),
+		url('fonts/Actionbound-14.ttf?ol2fn4') format('truetype'),
+		url('fonts/Actionbound-14.woff?ol2fn4') format('woff'),
+		url('fonts/Actionbound-14.svg?ol2fn4#Actionbound-14') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,13 +24,16 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-tiles:before {
+	content: "\e913";
+}
 .icon-eye-closed:before {
 	content: "\e90e";
 }
 .icon-eye:before {
 	content: "\e90f";
 }
-.icon-triangle-down:before {
+.icon-dropdown:before {
 	content: "\e910";
 }
 .icon-a-app-logo:before {
@@ -287,6 +290,9 @@
 }
 .icon-check:before {
 	content: "\e62b";
+}
+.icon-close:before {
+	content: "\f00d";
 }
 .icon-cancel:before {
 	content: "\e62c";
