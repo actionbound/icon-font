@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Actionbound-14';
-    src:    url('fonts/Actionbound-14.eot?porzgy');
-    src:    url('fonts/Actionbound-14.eot?porzgy#iefix') format('embedded-opentype'),
-        url('fonts/Actionbound-14.ttf?porzgy') format('truetype'),
-        url('fonts/Actionbound-14.woff?porzgy') format('woff'),
-        url('fonts/Actionbound-14.svg?porzgy#Actionbound-14') format('svg');
+    src:    url('fonts/Actionbound-14.eot?tgsi78');
+    src:    url('fonts/Actionbound-14.eot?tgsi78#iefix') format('embedded-opentype'),
+        url('fonts/Actionbound-14.ttf?tgsi78') format('truetype'),
+        url('fonts/Actionbound-14.woff?tgsi78') format('woff'),
+        url('fonts/Actionbound-14.svg?tgsi78#Actionbound-14') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,15 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ticket-qr:before {
+    content: "\e919";
+}
+.icon-ticket-ab:before {
+    content: "\e91f";
+}
+.icon-pied-piper:before {
+    content: "\e91c";
+}
 .icon-money:before {
     content: "\e914";
 }
@@ -369,14 +378,20 @@
 .icon-chevron-down:before {
     content: "\e639";
 }
-.icon-double-angle-up:before {
-    content: "\e63a";
+.icon-angle-right:before {
+    content: "\e91d";
+}
+.icon-angle-left:before {
+    content: "\e91e";
 }
 .icon-double-angle-left:before {
     content: "\e68f";
 }
 .icon-double-angle-right:before {
     content: "\e690";
+}
+.icon-double-angle-up:before {
+    content: "\e63a";
 }
 .icon-double-angle-down:before {
     content: "\e63b";
