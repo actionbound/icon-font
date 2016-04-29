@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Actionbound-14';
-    src:    url('fonts/Actionbound-14.eot?tgsi78');
-    src:    url('fonts/Actionbound-14.eot?tgsi78#iefix') format('embedded-opentype'),
-        url('fonts/Actionbound-14.ttf?tgsi78') format('truetype'),
-        url('fonts/Actionbound-14.woff?tgsi78') format('woff'),
-        url('fonts/Actionbound-14.svg?tgsi78#Actionbound-14') format('svg');
+    src:    url('fonts/Actionbound-14.eot?awl62');
+    src:    url('fonts/Actionbound-14.eot?awl62#iefix') format('embedded-opentype'),
+        url('fonts/Actionbound-14.ttf?awl62') format('truetype'),
+        url('fonts/Actionbound-14.woff?awl62') format('woff'),
+        url('fonts/Actionbound-14.svg?awl62#Actionbound-14') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,14 +24,17 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-ticket-qr:before {
+.icon-ticket:before {
     content: "\e919";
 }
-.icon-ticket-ab:before {
-    content: "\e91f";
-}
-.icon-pied-piper:before {
+.icon-ticket-qr:before {
     content: "\e91c";
+}
+.icon-ticket-ab:before {
+    content: "\e91d";
+}
+.icon-pied-piper-alt:before {
+    content: "\e91e";
 }
 .icon-money:before {
     content: "\e914";
@@ -379,10 +382,10 @@
     content: "\e639";
 }
 .icon-angle-right:before {
-    content: "\e91d";
+    content: "\e91f";
 }
 .icon-angle-left:before {
-    content: "\e91e";
+    content: "\e920";
 }
 .icon-double-angle-left:before {
     content: "\e68f";
