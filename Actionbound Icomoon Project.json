@@ -9,6 +9,50 @@
 			"selection": [
 				{
 					"order": 0,
+					"id": 0,
+					"prevSize": 32
+				}
+			],
+			"id": 12,
+			"metadata": {
+				"name": "Brankic 1979 (subset)",
+				"url": "http://brankic1979.com/icons/",
+				"designer": "Brankic1979",
+				"designerURL": "http://www.brankic1979.com/",
+				"license": "Custom",
+				"licenseURL": "http://brankic1979.com/icons/",
+				"iconsHash": 1724841611,
+				"importSize": {
+					"width": 32,
+					"height": 32
+				}
+			},
+			"height": 1024,
+			"prevSize": 32,
+			"icons": [
+				{
+					"id": 0,
+					"paths": [
+						"M881.76 269.44c-43.36 52.704-162.24 198.24-256.672 313.92l-119.904-121.728c108.448-96.512 242.688-215.808 291.2-258.528 86.304-76.064 161.984-121.312 178.432-102.816 10.304 10.24-17.056 76.672-93.056 169.152zM604.128 608.96c-36.576 44.768-68.064 83.328-87.328 106.976l-141.952-138.336c23.008-20.48 61.312-54.56 105.728-94.048l123.552 125.408zM495.648 741.856v-0.384c-82.4 316.16-448.576 134.4-448.576 134.4s153.632 19.36 153.632-123.936c0-138.912 141.184-151.456 149.856-152.096l145.376 141.664c0 0.032-0.288 0.352-0.288 0.352z"
+					],
+					"attrs": [],
+					"isMulticolor": false,
+					"tags": [
+						"brush",
+						"painting",
+						"art",
+						"drawing"
+					],
+					"grid": 32
+				}
+			],
+			"invisible": false,
+			"colorThemes": []
+		},
+		{
+			"selection": [
+				{
+					"order": 0,
 					"id": 1,
 					"prevSize": 32
 				},
@@ -1881,6 +1925,21 @@
 		},
 		{
 			"icons": [
+				{
+					"id": 197,
+					"paths": [
+						"M895.683 196.922c-45.498 55.302-170.238 208.013-269.326 329.396l-125.815-127.729c113.794-101.27 254.652-226.447 305.556-271.273 90.559-79.814 169.97-127.293 187.229-107.885 10.812 10.745-17.897 80.452-97.644 177.491zM604.364 553.18c-38.379 46.975-71.419 87.436-91.633 112.25l-148.95-145.156c24.142-21.49 64.335-57.25 110.94-98.684l129.643 131.59zM490.536 692.627v-0.403c-86.462 331.746-470.69 141.026-470.69 141.026s161.206 20.314 161.206-130.046c0-145.76 148.144-158.923 157.244-159.594l152.543 148.648c0 0.034-0.302 0.369-0.302 0.369z"
+					],
+					"attrs": [],
+					"isMulticolor": false,
+					"tags": [
+						"brush",
+						"painting",
+						"art",
+						"drawing"
+					],
+					"grid": 16
+				},
 				{
 					"id": 196,
 					"paths": [
@@ -4641,912 +4700,920 @@
 			},
 			"selection": [
 				{
-					"order": 1,
+					"order": 374,
+					"id": 377,
+					"prevSize": 32,
+					"code": 59683,
+					"name": "brush",
+					"tempChar": ""
+				},
+				{
+					"order": 189,
 					"id": 376,
 					"prevSize": 32,
 					"name": "ticket-ab",
 					"code": 59676,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 2,
+					"order": 190,
 					"id": 375,
 					"prevSize": 32,
 					"name": "ticket-qr",
 					"code": 59677,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 3,
+					"order": 191,
 					"id": 374,
 					"name": "circle",
 					"prevSize": 32,
 					"code": 59681,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 4,
+					"order": 192,
 					"id": 373,
 					"prevSize": 32,
 					"name": "mic",
 					"code": 59682,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 5,
+					"order": 193,
 					"id": 372,
 					"prevSize": 32,
 					"code": 59673,
 					"name": "ticket",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 6,
+					"order": 194,
 					"id": 367,
 					"prevSize": 32,
 					"code": 59678,
 					"name": "pied-piper-alt",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 7,
+					"order": 195,
 					"id": 365,
 					"prevSize": 32,
 					"code": 59668,
 					"name": "money",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 8,
+					"order": 196,
 					"id": 366,
 					"name": "invoice",
 					"prevSize": 32,
 					"code": 59669,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 9,
+					"order": 197,
 					"id": 359,
 					"prevSize": 32,
 					"code": 59670,
 					"name": "wallet",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 10,
+					"order": 198,
 					"id": 360,
 					"prevSize": 32,
 					"code": 59671,
 					"name": "credit-card-alt",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 11,
+					"order": 199,
 					"id": 361,
 					"prevSize": 32,
 					"code": 59672,
 					"name": "credit-card",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 12,
+					"order": 200,
 					"id": 363,
 					"prevSize": 32,
 					"code": 59674,
 					"name": "cc-paypal",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 13,
+					"order": 201,
 					"id": 364,
 					"prevSize": 32,
 					"code": 59675,
 					"name": "paypal",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 14,
+					"order": 202,
 					"id": 355,
 					"prevSize": 32,
 					"name": "tiles",
 					"code": 59667,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 15,
+					"order": 203,
 					"id": 350,
 					"prevSize": 32,
 					"name": "eye-closed",
 					"code": 59662,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 16,
+					"order": 204,
 					"id": 351,
 					"prevSize": 32,
 					"name": "eye",
 					"code": 59663,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 17,
+					"order": 205,
 					"id": 348,
 					"prevSize": 32,
 					"code": 59664,
 					"name": "dropdown",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 18,
+					"order": 206,
 					"id": 347,
 					"prevSize": 32,
 					"code": 59660,
 					"name": "a-app-logo",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 19,
+					"order": 207,
 					"id": 2,
 					"prevSize": 32,
 					"name": "a-logo",
 					"ligatures": "",
 					"code": 58941,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 20,
+					"order": 208,
 					"id": 319,
 					"name": "ab-logo",
 					"prevSize": 32,
 					"code": 59018,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 21,
+					"order": 209,
 					"id": 341,
 					"prevSize": 32,
 					"code": 59650,
 					"name": "home",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 22,
+					"order": 210,
 					"id": 342,
 					"prevSize": 32,
 					"name": "tree",
 					"code": 59651,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 23,
+					"order": 211,
 					"id": 334,
 					"prevSize": 32,
 					"name": "bars",
 					"code": 59652,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 24,
+					"order": 212,
 					"id": 4,
 					"prevSize": 32,
 					"name": "wrench",
 					"ligatures": "",
 					"code": 58890,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 25,
+					"order": 213,
 					"id": 25,
 					"prevSize": 32,
 					"name": "feather",
 					"ligatures": "",
 					"code": 58906,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 26,
+					"order": 214,
 					"id": 331,
 					"prevSize": 32,
 					"code": 59025,
 					"name": "envelope-square",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 27,
+					"order": 215,
 					"id": 332,
 					"prevSize": 32,
 					"code": 59026,
 					"name": "envelope-o",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 28,
+					"order": 216,
 					"id": 333,
 					"prevSize": 32,
 					"code": 59027,
 					"name": "envelope",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 29,
+					"order": 217,
 					"id": 326,
 					"prevSize": 32,
 					"code": 59019,
 					"name": "stopwatch",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 30,
+					"order": 218,
 					"id": 325,
 					"prevSize": 32,
 					"code": 59020,
 					"name": "estimation",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 31,
+					"order": 219,
 					"id": 318,
 					"prevSize": 32,
 					"code": 59002,
 					"name": "bipa-logo",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 32,
+					"order": 220,
 					"id": 317,
 					"prevSize": 32,
 					"code": 59003,
 					"name": "bipa-themen",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 33,
+					"order": 221,
 					"id": 316,
 					"prevSize": 32,
 					"code": 59004,
 					"name": "bipa-geschichte",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 34,
+					"order": 222,
 					"id": 315,
 					"prevSize": 32,
 					"code": 59005,
 					"name": "bipa-kunst",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 35,
+					"order": 223,
 					"id": 314,
 					"prevSize": 32,
 					"code": 59006,
 					"name": "bipa-literatur",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 36,
+					"order": 224,
 					"id": 313,
 					"prevSize": 32,
 					"code": 59007,
 					"name": "bipa-natur",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 37,
+					"order": 225,
 					"id": 312,
 					"prevSize": 32,
 					"code": 59008,
 					"name": "bipa-technik",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 38,
+					"order": 226,
 					"id": 311,
 					"prevSize": 32,
 					"code": 59009,
 					"name": "bipa-sport",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 39,
+					"order": 227,
 					"id": 310,
 					"prevSize": 32,
 					"code": 59010,
 					"name": "bipa-archiv",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 40,
+					"order": 228,
 					"id": 309,
 					"prevSize": 32,
 					"code": 59011,
 					"name": "bipa-bibliothek",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 41,
+					"order": 229,
 					"id": 308,
 					"prevSize": 32,
 					"code": 59012,
 					"name": "bipa-gedenkstaette",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 42,
+					"order": 230,
 					"id": 307,
 					"prevSize": 32,
 					"code": 59013,
 					"name": "bipa-medienzentrum",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 43,
+					"order": 231,
 					"id": 306,
 					"prevSize": 32,
 					"code": 59014,
 					"name": "bipa-museum",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 44,
+					"order": 232,
 					"id": 305,
 					"prevSize": 32,
 					"code": 59015,
 					"name": "bipa-musikschule",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 45,
+					"order": 233,
 					"id": 304,
 					"prevSize": 32,
 					"code": 59016,
 					"name": "bipa-vhs",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 46,
+					"order": 234,
 					"id": 303,
 					"prevSize": 32,
 					"code": 59017,
 					"name": "bipa-sportverein",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 47,
+					"order": 235,
 					"id": 302,
 					"prevSize": 32,
 					"code": 58999,
 					"name": "handledots",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 48,
+					"order": 236,
 					"id": 301,
 					"name": "piechart",
 					"prevSize": 32,
 					"code": 59000,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 49,
+					"order": 237,
 					"id": 300,
 					"prevSize": 32,
 					"code": 59001,
 					"name": "piechartalt",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 50,
+					"order": 238,
 					"id": 35,
 					"prevSize": 32,
 					"name": "road-sign",
 					"ligatures": "",
 					"code": 58914,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 51,
+					"order": 239,
 					"id": 296,
 					"prevSize": 32,
 					"code": 58992,
 					"name": "kompass",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 52,
+					"order": 240,
 					"id": 295,
 					"prevSize": 32,
 					"code": 58993,
 					"name": "direction-up",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 53,
+					"order": 241,
 					"id": 291,
 					"prevSize": 32,
 					"code": 58994,
 					"name": "misc",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 17,
-					"order": 54,
+					"order": 242,
 					"prevSize": 32,
 					"code": 58880,
 					"name": "export",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 55,
+					"order": 243,
 					"id": 356,
 					"name": "stop",
 					"prevSize": 32,
 					"code": 61515,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 56,
+					"order": 244,
 					"id": 15,
 					"prevSize": 32,
 					"name": "play",
 					"ligatures": "",
 					"code": 58881,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 186,
+					"order": 245,
 					"id": 50,
 					"prevSize": 32,
 					"name": "play-circle-invert",
 					"ligatures": "",
 					"code": 58882,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 58,
+					"order": 246,
 					"id": 1,
 					"prevSize": 32,
 					"name": "music",
 					"ligatures": "",
 					"code": 58883,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 59,
+					"order": 247,
 					"id": 43,
 					"prevSize": 32,
 					"name": "video",
 					"ligatures": "",
 					"code": 58884,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 60,
+					"order": 248,
 					"id": 3,
 					"prevSize": 32,
 					"name": "pic",
 					"ligatures": "",
 					"code": 58885,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 61,
+					"order": 249,
 					"id": 22,
 					"prevSize": 32,
 					"name": "qr",
 					"ligatures": "",
 					"code": 58886,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 62,
+					"order": 250,
 					"id": 297,
 					"prevSize": 32,
 					"code": 58991,
 					"name": "abqr",
 					"ligatures": "",
-					"tempChar": ""
-				},
-				{
-					"name": "barcode",
-					"order": 63,
-					"id": 320,
-					"prevSize": 32,
-					"code": 61482,
 					"tempChar": ""
 				},
 				{
+					"name": "barcode",
+					"order": 251,
+					"id": 320,
+					"prevSize": 32,
+					"code": 61482,
+					"tempChar": ""
+				},
+				{
 					"id": 21,
-					"order": 64,
+					"order": 252,
 					"prevSize": 32,
 					"code": 58887,
 					"name": "directions",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 65,
+					"order": 253,
 					"id": 344,
 					"prevSize": 32,
 					"code": 59657,
 					"name": "location-arrow",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 20,
-					"order": 66,
+					"order": 254,
 					"prevSize": 32,
 					"code": 58888,
 					"name": "compass",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 22,
-					"order": 67,
+					"order": 255,
 					"prevSize": 32,
 					"code": 58889,
 					"name": "target",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 68,
+					"order": 256,
 					"id": 346,
 					"prevSize": 32,
 					"code": 59661,
 					"name": "mobile",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 69,
+					"order": 257,
 					"id": 5,
 					"prevSize": 32,
 					"name": "apple",
 					"ligatures": "",
 					"code": 58891,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 70,
+					"order": 258,
 					"id": 6,
 					"prevSize": 32,
 					"name": "android",
 					"ligatures": "",
 					"code": 58892,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 71,
+					"order": 259,
 					"id": 7,
 					"prevSize": 32,
 					"name": "windows",
 					"ligatures": "",
 					"code": 58893,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 72,
+					"order": 260,
 					"id": 8,
 					"prevSize": 32,
 					"name": "star",
 					"ligatures": "",
 					"code": 58894,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 73,
+					"order": 261,
 					"id": 10,
 					"prevSize": 32,
 					"name": "star-half",
 					"ligatures": "",
 					"code": 58895,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 74,
+					"order": 262,
 					"id": 9,
 					"prevSize": 32,
 					"name": "star-empty",
 					"ligatures": "",
 					"code": 58896,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 75,
+					"order": 263,
 					"id": 11,
 					"prevSize": 32,
 					"name": "verified",
 					"ligatures": "",
 					"code": 58897,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 76,
+					"order": 264,
 					"id": 12,
 					"prevSize": 32,
 					"name": "earth-us",
 					"ligatures": "",
 					"code": 58898,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 77,
+					"order": 265,
 					"id": 13,
 					"prevSize": 32,
 					"name": "earth",
 					"ligatures": "",
 					"code": 58899,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 78,
+					"order": 266,
 					"id": 16,
 					"prevSize": 32,
 					"name": "trash",
 					"ligatures": "",
 					"code": 58900,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 79,
+					"order": 267,
 					"id": 18,
 					"prevSize": 32,
 					"name": "flag",
 					"ligatures": "",
 					"code": 58901,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 80,
+					"order": 268,
 					"id": 299,
 					"prevSize": 32,
 					"code": 58998,
 					"name": "heldenausflug",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 81,
+					"order": 269,
 					"id": 298,
 					"prevSize": 32,
 					"code": 58995,
 					"name": "newbounds",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 82,
+					"order": 270,
 					"id": 19,
 					"prevSize": 32,
 					"name": "info",
 					"ligatures": "",
 					"code": 58902,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 83,
+					"order": 271,
 					"id": 48,
 					"prevSize": 32,
 					"name": "law",
 					"ligatures": "",
 					"code": 58926,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 84,
+					"order": 272,
 					"id": 20,
 					"prevSize": 32,
 					"name": "question",
 					"ligatures": "",
 					"code": 58903,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 85,
+					"order": 273,
 					"id": 21,
 					"prevSize": 32,
 					"name": "attention",
 					"ligatures": "",
 					"code": 58904,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 86,
+					"order": 274,
 					"id": 24,
 					"prevSize": 32,
 					"name": "bubbles",
 					"ligatures": "",
 					"code": 58905,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 87,
+					"order": 275,
 					"id": 335,
 					"prevSize": 32,
 					"code": 59648,
 					"name": "google-plus",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 88,
+					"order": 276,
 					"id": 340,
 					"prevSize": 32,
 					"name": "twitter",
 					"code": 59653,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 89,
+					"order": 277,
 					"id": 339,
 					"prevSize": 32,
 					"name": "facebook",
 					"code": 59654,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 90,
+					"order": 278,
 					"id": 338,
 					"prevSize": 32,
 					"name": "vimeo",
 					"code": 59655,
-					"tempChar": ""
-				},
-				{
-					"name": "whatsapp",
-					"order": 91,
-					"id": 324,
-					"prevSize": 32,
-					"code": 62002,
 					"tempChar": ""
 				},
 				{
-					"order": 92,
+					"name": "whatsapp",
+					"order": 279,
+					"id": 324,
+					"prevSize": 32,
+					"code": 62002,
+					"tempChar": ""
+				},
+				{
+					"order": 280,
 					"id": 32,
 					"prevSize": 32,
 					"name": "tag",
 					"ligatures": "",
 					"code": 58912,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 93,
+					"order": 281,
 					"id": 33,
 					"prevSize": 32,
 					"name": "tags",
 					"ligatures": "",
 					"code": 58913,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 94,
+					"order": 282,
 					"id": 36,
 					"prevSize": 32,
 					"name": "loader",
 					"ligatures": "",
 					"code": 58915,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 95,
+					"order": 283,
 					"id": 37,
 					"prevSize": 32,
 					"name": "bug",
 					"ligatures": "",
 					"code": 58916,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 96,
+					"order": 284,
 					"id": 38,
 					"prevSize": 32,
 					"name": "distance",
 					"ligatures": "",
 					"code": 58917,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 97,
+					"order": 285,
 					"id": 353,
 					"prevSize": 32,
 					"name": "single-player",
 					"code": 59665,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 98,
+					"order": 286,
 					"id": 294,
 					"prevSize": 32,
 					"code": 58996,
 					"name": "multiplayer-large",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 99,
+					"order": 287,
 					"id": 352,
 					"prevSize": 32,
 					"name": "multi-player",
 					"code": 59666,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 100,
+					"order": 288,
 					"id": 41,
 					"prevSize": 32,
 					"name": "italic",
 					"ligatures": "",
 					"code": 58920,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 101,
+					"order": 289,
 					"id": 42,
 					"prevSize": 32,
 					"name": "bold",
 					"ligatures": "",
 					"code": 58921,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 102,
+					"order": 290,
 					"id": 44,
 					"prevSize": 32,
 					"name": "link",
 					"ligatures": "",
 					"code": 58922,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 103,
+					"order": 291,
 					"id": 45,
 					"prevSize": 32,
 					"name": "check",
 					"ligatures": "",
 					"code": 58923,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 104,
+					"order": 292,
 					"id": 354,
 					"name": "close",
 					"prevSize": 32,
 					"code": 61453,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 105,
+					"order": 293,
 					"id": 46,
 					"prevSize": 32,
 					"name": "cancel",
 					"ligatures": "",
 					"code": 58924,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 106,
+					"order": 294,
 					"id": 47,
 					"prevSize": 32,
 					"name": "love",
 					"ligatures": "",
 					"code": 58925,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 107,
+					"order": 295,
 					"id": 49,
 					"prevSize": 32,
 					"name": "copy",
 					"ligatures": "",
 					"code": 58927,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 108,
+					"order": 296,
 					"id": 336,
 					"prevSize": 32,
 					"name": "paste",
@@ -5554,687 +5621,687 @@
 					"codes": [
 						59656
 					],
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 109,
+					"order": 297,
 					"id": 337,
 					"prevSize": 32,
 					"name": "clipboard",
 					"code": 59649,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 110,
+					"order": 298,
 					"id": 51,
 					"prevSize": 32,
 					"name": "upload",
 					"ligatures": "",
 					"code": 58928,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 111,
+					"order": 299,
 					"id": 52,
 					"prevSize": 32,
 					"name": "berlin",
 					"ligatures": "",
 					"code": 58929,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 112,
+					"order": 300,
 					"id": 53,
 					"prevSize": 32,
 					"name": "pen",
 					"ligatures": "",
 					"code": 58930,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 113,
+					"order": 301,
 					"id": 54,
 					"prevSize": 32,
 					"name": "search",
 					"ligatures": "",
 					"code": 58931,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 114,
+					"order": 302,
 					"id": 64,
 					"prevSize": 32,
 					"code": 58932,
 					"name": "redo",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 115,
+					"order": 303,
 					"id": 65,
 					"prevSize": 32,
 					"code": 58933,
 					"name": "undo",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 116,
+					"order": 304,
 					"id": 62,
 					"prevSize": 32,
 					"name": "reply",
 					"ligatures": "",
 					"code": 58934,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 117,
+					"order": 305,
 					"id": 63,
 					"prevSize": 32,
 					"name": "forward",
 					"ligatures": "",
 					"code": 58935,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 118,
+					"order": 306,
 					"id": 328,
 					"name": "chevron-left",
 					"prevSize": 32,
 					"code": 59021,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 119,
+					"order": 307,
 					"id": 327,
 					"name": "chevron-right",
 					"prevSize": 32,
 					"code": 59022,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 120,
+					"order": 308,
 					"id": 60,
 					"prevSize": 32,
 					"name": "chevron-up",
 					"ligatures": "",
 					"code": 58936,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 121,
+					"order": 309,
 					"id": 61,
 					"prevSize": 32,
 					"name": "chevron-down",
 					"ligatures": "",
 					"code": 58937,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 122,
+					"order": 310,
 					"id": 371,
 					"prevSize": 32,
 					"code": 59679,
 					"name": "angle-right",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 123,
+					"order": 311,
 					"id": 370,
 					"prevSize": 32,
 					"code": 59680,
 					"name": "angle-left",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 124,
+					"order": 312,
 					"id": 329,
 					"name": "double-angle-left",
 					"prevSize": 32,
 					"code": 59023,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 125,
+					"order": 313,
 					"id": 330,
 					"name": "double-angle-right",
 					"prevSize": 32,
 					"code": 59024,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 126,
+					"order": 314,
 					"id": 55,
 					"prevSize": 32,
 					"name": "double-angle-up",
 					"ligatures": "",
 					"code": 58938,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 127,
+					"order": 315,
 					"id": 56,
 					"prevSize": 32,
 					"name": "double-angle-down",
 					"ligatures": "",
 					"code": 58939,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 128,
+					"order": 316,
 					"id": 17,
 					"prevSize": 32,
 					"name": "pacman",
 					"ligatures": "",
 					"code": 58940,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 80,
-					"order": 129,
+					"order": 317,
 					"prevSize": 32,
 					"code": 58942,
 					"name": "plus-sign",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 81,
-					"order": 130,
+					"order": 318,
 					"prevSize": 32,
 					"code": 58943,
 					"name": "minus-sign",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 97,
-					"order": 131,
+					"order": 319,
 					"prevSize": 32,
 					"code": 58944,
 					"name": "plus",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 98,
-					"order": 132,
+					"order": 320,
 					"prevSize": 32,
 					"code": 58945,
 					"name": "minus",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 82,
-					"order": 133,
+					"order": 321,
 					"prevSize": 32,
 					"code": 58946,
 					"name": "remove-sign",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 87,
-					"order": 134,
+					"order": 322,
 					"prevSize": 32,
 					"code": 58947,
 					"name": "cancel-circle",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 88,
-					"order": 135,
+					"order": 323,
 					"prevSize": 32,
 					"code": 58948,
 					"name": "check-circle-panel",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 44,
-					"order": 136,
+					"order": 324,
 					"prevSize": 32,
 					"code": 58949,
 					"name": "print",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 24,
-					"order": 137,
+					"order": 325,
 					"prevSize": 32,
 					"code": 58950,
 					"name": "download",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 141,
-					"order": 138,
+					"order": 326,
 					"prevSize": 32,
 					"code": 58951,
 					"name": "check-empty",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 66,
-					"order": 139,
+					"order": 327,
 					"prevSize": 32,
 					"code": 58952,
 					"name": "check-checked",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 18,
-					"order": 140,
+					"order": 328,
 					"prevSize": 32,
 					"code": 58953,
 					"name": "placemark",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 80,
-					"order": 141,
+					"order": 329,
 					"prevSize": 32,
 					"code": 58954,
 					"name": "rocket",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 226,
-					"order": 142,
+					"order": 330,
 					"prevSize": 32,
 					"code": 58955,
 					"name": "cc-by",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 227,
-					"order": 143,
+					"order": 331,
 					"prevSize": 32,
 					"code": 58956,
 					"name": "cc-nc",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 228,
-					"order": 144,
+					"order": 332,
 					"prevSize": 32,
 					"code": 58957,
 					"name": "cc-nc-eu",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 230,
-					"order": 145,
+					"order": 333,
 					"prevSize": 32,
 					"code": 58958,
 					"name": "cc-sa",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 231,
-					"order": 146,
+					"order": 334,
 					"prevSize": 32,
 					"code": 58959,
 					"name": "cc-nd",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 232,
-					"order": 147,
+					"order": 335,
 					"prevSize": 32,
 					"code": 58960,
 					"name": "cc-pd",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 233,
-					"order": 148,
+					"order": 336,
 					"prevSize": 32,
 					"code": 58961,
 					"name": "cc-zero",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 234,
-					"order": 149,
+					"order": 337,
 					"prevSize": 32,
 					"code": 58962,
 					"name": "cc-share",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 150,
+					"order": 338,
 					"id": 142,
 					"prevSize": 32,
 					"code": 58963,
 					"name": "bike",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 151,
+					"order": 339,
 					"id": 145,
 					"prevSize": 32,
 					"code": 58964,
 					"name": "beer",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 152,
+					"order": 340,
 					"id": 146,
 					"prevSize": 32,
 					"code": 58965,
 					"name": "car",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 153,
+					"order": 341,
 					"id": 147,
 					"prevSize": 32,
 					"code": 58966,
 					"name": "bus",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 154,
+					"order": 342,
 					"id": 31,
 					"prevSize": 32,
 					"name": "on-off",
 					"ligatures": "",
 					"code": 58911,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 32,
-					"order": 155,
+					"order": 343,
 					"prevSize": 32,
 					"code": 58967,
 					"name": "lock",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 287,
-					"order": 156,
+					"order": 344,
 					"prevSize": 32,
 					"code": 58968,
 					"name": "unlock",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 225,
-					"order": 157,
+					"order": 345,
 					"prevSize": 32,
 					"code": 58969,
 					"name": "cc",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 158,
+					"order": 346,
 					"id": 3,
 					"prevSize": 32,
 					"code": 58970,
 					"name": "city",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 159,
+					"order": 347,
 					"id": 2,
 					"prevSize": 32,
 					"code": 58971,
 					"name": "fun",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 253,
-					"order": 160,
+					"order": 348,
 					"prevSize": 32,
 					"code": 58985,
 					"name": "nope",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 161,
+					"order": 349,
 					"id": 1,
 					"prevSize": 32,
 					"code": 58972,
 					"name": "outdoors",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 162,
+					"order": 350,
 					"id": 0,
 					"prevSize": 32,
 					"code": 58973,
 					"name": "sightseeing",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 163,
+					"order": 351,
 					"id": 5,
 					"prevSize": 32,
 					"code": 58974,
 					"name": "education",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 164,
+					"order": 352,
 					"id": 4,
 					"prevSize": 32,
 					"code": 58975,
 					"name": "event",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 136,
-					"order": 165,
+					"order": 353,
 					"prevSize": 32,
 					"code": 58976,
 					"name": "trophy",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 166,
+					"order": 354,
 					"id": 345,
 					"prevSize": 32,
 					"name": "map",
 					"code": 59658,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 167,
+					"order": 355,
 					"id": 343,
 					"prevSize": 32,
 					"name": "map-invert",
 					"code": 59659,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 115,
-					"order": 168,
+					"order": 356,
 					"prevSize": 32,
 					"code": 58977,
 					"name": "map-alt",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 0,
-					"order": 169,
+					"order": 357,
 					"prevSize": 32,
 					"code": 58978,
 					"name": "type",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 58,
-					"order": 170,
+					"order": 358,
 					"prevSize": 32,
 					"code": 58979,
 					"name": "video-cam",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 171,
+					"order": 359,
 					"id": 349,
 					"prevSize": 32,
 					"code": 59028,
 					"name": "list",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 150,
-					"order": 172,
+					"order": 360,
 					"prevSize": 32,
 					"code": 58980,
 					"name": "list-large",
 					"ligatures": "",
-					"tempChar": ""
-				},
-				{
-					"name": "list-ul",
-					"order": 173,
-					"id": 321,
-					"prevSize": 32,
-					"code": 61642,
 					"tempChar": ""
 				},
 				{
-					"name": "list-ol",
-					"order": 174,
-					"id": 322,
+					"name": "list-ul",
+					"order": 361,
+					"id": 321,
 					"prevSize": 32,
-					"code": 61643,
+					"code": 61642,
 					"tempChar": ""
 				},
 				{
-					"name": "sort",
-					"order": 175,
-					"id": 323,
+					"name": "list-ol",
+					"order": 362,
+					"id": 322,
 					"prevSize": 32,
-					"code": 61792,
+					"code": 61643,
 					"tempChar": ""
 				},
 				{
-					"order": 176,
+					"name": "sort",
+					"order": 363,
+					"id": 323,
+					"prevSize": 32,
+					"code": 61792,
+					"tempChar": ""
+				},
+				{
+					"order": 364,
 					"id": 288,
 					"prevSize": 32,
 					"code": 58981,
 					"name": "laurel",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 177,
+					"order": 365,
 					"id": 289,
 					"prevSize": 32,
 					"code": 58982,
 					"name": "points",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 45,
-					"order": 178,
+					"order": 366,
 					"prevSize": 32,
 					"code": 58983,
 					"name": "camera",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 40,
-					"order": 179,
+					"order": 367,
 					"prevSize": 32,
 					"code": 58984,
 					"name": "problem",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 180,
+					"order": 368,
 					"id": 0,
 					"prevSize": 32,
 					"code": 58986,
 					"name": "play-circle",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 181,
+					"order": 369,
 					"id": 1,
 					"prevSize": 32,
 					"code": 58987,
 					"name": "stop-circle",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 182,
+					"order": 370,
 					"id": 2,
 					"prevSize": 32,
 					"code": 58988,
 					"name": "pause-circle",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
-					"order": 183,
+					"order": 371,
 					"id": 0,
 					"prevSize": 32,
 					"code": 58990,
 					"name": "check-circle-alt",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 61,
-					"order": 184,
+					"order": 372,
 					"prevSize": 32,
 					"code": 58989,
 					"name": "time",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"id": 23,
-					"order": 185,
+					"order": 373,
 					"prevSize": 32,
 					"code": 58997,
 					"name": "share",
 					"ligatures": "",
-					"tempChar": ""
+					"tempChar": ""
 				}
 			],
 			"prevSize": 32,
