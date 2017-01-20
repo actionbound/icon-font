@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?htl2p5');
-  src:  url('fonts/Actionbound-14.eot?htl2p5#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?htl2p5') format('truetype'),
-    url('fonts/Actionbound-14.woff?htl2p5') format('woff'),
-    url('fonts/Actionbound-14.svg?htl2p5#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?fhr65q');
+  src:  url('fonts/Actionbound-14.eot?fhr65q#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?fhr65q') format('truetype'),
+    url('fonts/Actionbound-14.woff?fhr65q') format('woff'),
+    url('fonts/Actionbound-14.svg?fhr65q#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-switch-small:before {
+  content: "\e92a";
+}
+.icon-switch-large:before {
+  content: "\e92b";
+}
 .icon-bitcoin:before {
   content: "\e928";
 }
