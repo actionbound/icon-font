@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?2u3dqp');
-  src:  url('fonts/Actionbound-14.eot?2u3dqp#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?2u3dqp') format('truetype'),
-    url('fonts/Actionbound-14.woff?2u3dqp') format('woff'),
-    url('fonts/Actionbound-14.svg?2u3dqp#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?rbq1xz');
+  src:  url('fonts/Actionbound-14.eot?rbq1xz#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?rbq1xz') format('truetype'),
+    url('fonts/Actionbound-14.woff?rbq1xz') format('woff'),
+    url('fonts/Actionbound-14.svg?rbq1xz#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -35,6 +35,9 @@
 }
 .icon-flag-start:before {
   content: "\e92f";
+}
+.icon-bolt-search:before {
+  content: "\e930";
 }
 .icon-bolt-info:before {
   content: "\e927";
