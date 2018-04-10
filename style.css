@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?bzkq45');
-  src:  url('fonts/Actionbound-14.eot?bzkq45#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?bzkq45') format('truetype'),
-    url('fonts/Actionbound-14.woff?bzkq45') format('woff'),
-    url('fonts/Actionbound-14.svg?bzkq45#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?unqj5e');
+  src:  url('fonts/Actionbound-14.eot?unqj5e#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?unqj5e') format('truetype'),
+    url('fonts/Actionbound-14.woff?unqj5e') format('woff'),
+    url('fonts/Actionbound-14.svg?unqj5e#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-folder:before {
+  content: "\e933";
+}
+.icon-instant-accounts-large:before {
+  content: "\e934";
+}
+.icon-instant-accounts:before {
+  content: "\e935";
+}
 .icon-medaille:before {
   content: "\e932";
 }
@@ -386,6 +395,9 @@
 }
 .icon-link:before {
   content: "\e62a";
+}
+.icon-chain:before {
+  content: "\e015";
 }
 .icon-check:before {
   content: "\e62b";
