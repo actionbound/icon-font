@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?52slbz');
-  src:  url('fonts/Actionbound-14.eot?52slbz#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?52slbz') format('truetype'),
-    url('fonts/Actionbound-14.woff?52slbz') format('woff'),
-    url('fonts/Actionbound-14.svg?52slbz#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?z4qza');
+  src:  url('fonts/Actionbound-14.eot?z4qza#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?z4qza') format('truetype'),
+    url('fonts/Actionbound-14.woff?z4qza') format('woff'),
+    url('fonts/Actionbound-14.svg?z4qza#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,92 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-spoton-hands:before {
+  content: "\e93c";
+}
+.icon-spoton-i:before {
+  content: "\e93d";
+}
+.icon-spoton-law:before {
+  content: "\e93e";
+}
+.icon-spoton-mtg .path1:before {
+  content: "\e93f";
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path2:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path3:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path4:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path5:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path6:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path7:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path8:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path9:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path10:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-spoton-mtg .path11:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-mtg .path12:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.icon-spoton-niedersachsen:before {
+  content: "\e94b";
+}
+.icon-spoton-placemark:before {
+  content: "\e94c";
+}
+.icon-spoton-qr:before {
+  content: "\e94d";
+}
+.icon-spoton-questionmark:before {
+  content: "\e94e";
+}
+.icon-spoton-wrench:before {
+  content: "\e94f";
+}
+.icon-spoton-lupe:before {
+  content: "\e950";
+}
 .icon-voebb:before {
   content: "\e93b";
 }
