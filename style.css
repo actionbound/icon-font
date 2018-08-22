@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?9tgbqv');
-  src:  url('fonts/Actionbound-14.eot?9tgbqv#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?9tgbqv') format('truetype'),
-    url('fonts/Actionbound-14.woff?9tgbqv') format('woff'),
-    url('fonts/Actionbound-14.svg?9tgbqv#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?nk7wle');
+  src:  url('fonts/Actionbound-14.eot?nk7wle#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?nk7wle') format('truetype'),
+    url('fonts/Actionbound-14.woff?nk7wle') format('woff'),
+    url('fonts/Actionbound-14.svg?nk7wle#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bipa-legal-noborder:before {
+  content: "\e941";
+}
 .icon-spoton-hands:before {
   content: "\e93c";
 }
