@@ -4,6 +4,115 @@
     {
       "icon": {
         "paths": [
+          "M867.2 378.6l-349.8-349.8c-38.4-38.4-100.4-38.4-138.8 0l-349.8 349.8c-38.4 38.4-38.4 100.4 0 138.8l349.8 349.8c38.4 38.4 100.4 38.4 138.8 0l349.8-349.8c38.4-38.4 38.4-100.4 0-138.8zM192 510c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62zM448 766c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62zM448 510c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62zM448 254c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62zM704 510c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62z",
+          "M1184 384h-237.4c25.4 59.2 14.2 130.4-34 178.6l-272.6 272.6v92.8c0 53 43 96 96 96h448c53 0 96-43 96-96v-448c0-53-43-96-96-96zM960 766c-34.2 0-62-27.8-62-62s27.8-62 62-62 62 27.8 62 62-27.8 62-62 62z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "width": 1280,
+        "grid": 14,
+        "tags": [
+          "dice"
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "colorPermutations": {
+          "12552552551": [
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 242,
+        "id": 236,
+        "name": "dice",
+        "prevSize": 32,
+        "code": 59721
+      },
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M617.371 277.943c-70.629-69.943-151.543-105.6-240.914-105.6h-273.6c-15.771 0-30.629 6.171-41.6 17.371-11.2 11.2-17.143 26.057-16.914 41.829l0.457 41.143c0.229 32 26.514 58.057 58.514 58.057 0 0 0.229 0 0.229 0l267.886-1.143c41.143 0 78.857 13.943 115.657 42.514 19.886 15.314 34.514 31.543 44.114 48.229 4.343 7.543 8.457 16.686 12.8 27.429l-440.229 1.6c-32.457 0.229-58.743 26.514-58.743 58.971v40.914c0 32.457 26.514 58.971 58.971 58.971h440.914c-5.257 13.714-10.514 25.143-16 34.286-10.514 17.829-26.514 34.286-47.314 49.143l-0.229 0.229c-38.4 27.429-80.686 40.914-129.371 40.914l-249.143 0.457c-32.457 0-58.971 26.514-58.971 58.971v40.914c0 32.457 26.514 58.971 58.971 58.971h251.429c105.143 0 193.6-34.514 262.857-102.857 69.486-68.343 104.686-156.114 104.686-260.8 0-96.914-35.2-181.257-104.457-250.514z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 768,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 14,
+        "tags": [
+          "contains"
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 241,
+        "id": 235,
+        "name": "contains",
+        "prevSize": 32,
+        "code": 59722
+      },
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M617.371 277.943c-19.429-19.429-39.771-36.114-60.8-50.057l76.114-157.257c6.629-14.171 0.686-31.086-13.486-37.943l-51.2-24.229c-14.171-6.857-31.086-0.686-37.943 13.486l-77.257 159.543c-24.686-6.171-50.286-9.143-76.343-9.143h-273.6c-32.457 0-58.743 26.514-58.743 58.971l0.457 41.6v0.914c1.143 32 26.743 57.143 58.971 57.143l267.657-1.143c3.2 0 6.4 0.229 9.829 0.229l-57.371 118.4-219.886 0.914c-32.457 0-58.971 26.514-58.971 58.971v40.914c0 32.457 26.514 58.971 58.971 58.971h142.629l-60.343 124.8-82.971 0.229c-32.457 0-58.971 26.514-58.971 58.971v40.914c0 32.457 26.514 58.971 58.971 58.971h5.943l-29.714 61.257c-6.629 14.171-0.686 31.086 13.486 37.943l51.2 24.229c14.171 6.857 31.086 0.686 37.943-13.486l53.257-109.943h119.086c105.6 0 194.057-34.514 262.857-102.857 69.486-68.343 104.686-156.114 104.686-260.571 0-97.143-35.2-181.257-104.457-250.743zM486.857 372.114l0.229 0.229c19.657 14.857 34.286 31.086 43.886 48 3.429 6.171 7.771 15.086 12.8 27.429l-93.714 0.229 36.8-75.886zM372.571 608.229h172.114c-5.257 13.714-10.514 24.914-16 34.057l-0.229 0.229c-10.514 17.829-26.286 34.286-47.086 48.914l-0.457 0.457c-38.171 27.429-80.457 40.686-129.371 40.686h-39.314l60.343-124.343z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 768,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 14,
+        "tags": [
+          "contains-not"
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 238,
+        "id": 234,
+        "name": "contains-not",
+        "prevSize": 32,
+        "code": 59729
+      },
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
           "M384 768c0 70.692-57.308 128-128 128s-128-57.308-128-128c0-47.37 25.752-88.698 64-110.834v-337.166c0-35.346 28.654-64 64-64s64 28.654 64 64v337.166c38.248 22.136 64 63.464 64 110.834zM448 598.694c39.824 45.126 64 104.388 64 169.306 0 141.392-114.606 256-256 256-0.598 0-1.218-0.002-1.818-0.006-140.604-0.976-254.896-116.722-254.178-257.328 0.328-64.396 24.446-123.156 63.996-167.972v-406.694c0-106.038 85.962-192 192-192s192 85.962 192 192v406.694zM416 768c0-68.678-38.74-104.38-64-133.004v-442.996c0-52.934-43.066-96-96-96s-96 43.066-96 96v442.996c-25.464 28.856-63.65 64.2-63.998 132.16-0.448 87.752 71.126 160.232 158.846 160.84l1.152 0.004c88.224 0 160-71.776 160-160z"
         ],
         "attrs": [
@@ -15,7 +124,12 @@
         "grid": 14,
         "tags": [
           "thermometer"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -29,7 +143,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 0
+      "iconIdx": 3
     },
     {
       "icon": {
@@ -44,7 +158,10 @@
         ],
         "defaultCode": 58944,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -57,7 +174,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 1
+      "iconIdx": 4
     },
     {
       "icon": {
@@ -72,7 +189,10 @@
         ],
         "defaultCode": 58945,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -85,7 +205,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 2
+      "iconIdx": 5
     },
     {
       "icon": {
@@ -101,7 +221,12 @@
         "grid": 14,
         "tags": [
           "equals"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -115,7 +240,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 3
+      "iconIdx": 6
     },
     {
       "icon": {
@@ -131,7 +256,12 @@
         "grid": 14,
         "tags": [
           "divide"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -145,7 +275,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 4
+      "iconIdx": 7
     },
     {
       "icon": {
@@ -161,7 +291,12 @@
         "grid": 14,
         "tags": [
           "greater-than"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -175,7 +310,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 5
+      "iconIdx": 8
     },
     {
       "icon": {
@@ -191,7 +326,12 @@
         "grid": 14,
         "tags": [
           "less-than"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -205,23 +345,28 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 6
+      "iconIdx": 9
     },
     {
       "icon": {
         "paths": [
-          "M832 416c35.34 0 64-28.66 64-64v-64c0-35.34-28.66-64-64-64h-47.76l103.74-133.62c10.74-14.040 8.080-34.12-5.94-44.86l-50.82-38.92c-14.040-10.76-34.12-8.080-44.88 5.94l-164.16 211.46h-558.18c-35.34 0-64 28.66-64 64v64c0 35.34 28.66 64 64 64h409.12l-149.060 192h-260.060c-35.34 0-64 28.66-64 64v64c0 35.34 28.66 64 64 64h110.98l-103.74 133.62c-10.74 14.020-8.080 34.1 5.94 44.86l50.82 38.92c14.040 10.76 34.12 8.080 44.86-5.94l164.18-211.46h494.96c35.34 0 64-28.66 64-64v-64c0-35.34-28.66-64-64-64h-345.9l149.060-192h196.84z"
+          "M896 352v-64c0-35.429-28.571-64-64-64h-179.886l74.286-153.371c6.629-14.171 0.686-31.086-13.486-37.943l-51.2-24.229c-14.171-6.857-31.086-0.686-37.943 13.486l-97.829 202.057h-461.943c-35.429 0-64 28.571-64 64v64c0 35.429 28.571 64 64 64h368.914l-93.029 192h-275.886c-35.429 0-64 28.571-64 64v64c0 35.429 28.571 64 64 64h183.086l-74.286 153.371c-6.629 14.171-0.686 31.086 13.486 37.943l51.2 24.457c14.171 6.857 31.086 0.686 37.943-13.486l97.829-202.286h458.514c35.429 0 64-28.571 64-64v-64c0-35.429-28.571-64-64-64h-365.714l93.029-192h272.686c35.657-0 64.229-28.571 64.229-64z"
         ],
         "attrs": [
           {}
         ],
         "width": 896,
-        "isMulticolor": false,
-        "isMulticolor2": false,
         "grid": 14,
         "tags": [
           "not-equal"
-        ]
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -235,7 +380,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 7
+      "iconIdx": 10
     },
     {
       "icon": {
@@ -251,7 +396,12 @@
         "tags": [
           "tablet"
         ],
-        "grid": 14
+        "grid": 14,
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -265,7 +415,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 8
+      "iconIdx": 11
     },
     {
       "icon": {
@@ -281,7 +431,12 @@
         "grid": 14,
         "tags": [
           "element"
-        ]
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -295,7 +450,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 9
+      "iconIdx": 12
     },
     {
       "icon": {
@@ -309,7 +464,10 @@
         ],
         "defaultCode": 57365,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -321,7 +479,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 10
+      "iconIdx": 13
     },
     {
       "icon": {
@@ -335,7 +493,10 @@
         ],
         "defaultCode": 58834,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -348,7 +509,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 11
+      "iconIdx": 14
     },
     {
       "icon": {
@@ -362,7 +523,10 @@
         ],
         "defaultCode": 58835,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -375,7 +539,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 12
+      "iconIdx": 15
     },
     {
       "icon": {
@@ -389,7 +553,10 @@
         ],
         "defaultCode": 58880,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -402,7 +569,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 13
+      "iconIdx": 16
     },
     {
       "icon": {
@@ -417,7 +584,10 @@
         ],
         "defaultCode": 58881,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -430,7 +600,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 14
+      "iconIdx": 17
     },
     {
       "icon": {
@@ -445,7 +615,10 @@
         ],
         "defaultCode": 58882,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -458,7 +631,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 15
+      "iconIdx": 18
     },
     {
       "icon": {
@@ -473,7 +646,10 @@
         ],
         "defaultCode": 58883,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -486,7 +662,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 16
+      "iconIdx": 19
     },
     {
       "icon": {
@@ -501,7 +677,10 @@
         ],
         "defaultCode": 58884,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -514,7 +693,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 17
+      "iconIdx": 20
     },
     {
       "icon": {
@@ -529,7 +708,10 @@
         ],
         "defaultCode": 58885,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -542,7 +724,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 18
+      "iconIdx": 21
     },
     {
       "icon": {
@@ -557,7 +739,10 @@
         ],
         "defaultCode": 58886,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -570,7 +755,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 19
+      "iconIdx": 22
     },
     {
       "icon": {
@@ -584,7 +769,10 @@
         ],
         "defaultCode": 58887,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -597,7 +785,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 20
+      "iconIdx": 23
     },
     {
       "icon": {
@@ -611,7 +799,10 @@
         ],
         "defaultCode": 58888,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -624,7 +815,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 21
+      "iconIdx": 24
     },
     {
       "icon": {
@@ -638,7 +829,10 @@
         ],
         "defaultCode": 58889,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -651,7 +845,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 22
+      "iconIdx": 25
     },
     {
       "icon": {
@@ -666,7 +860,10 @@
         ],
         "defaultCode": 58890,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -679,7 +876,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 23
+      "iconIdx": 26
     },
     {
       "icon": {
@@ -694,7 +891,10 @@
         ],
         "defaultCode": 58891,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -707,7 +907,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 24
+      "iconIdx": 27
     },
     {
       "icon": {
@@ -722,7 +922,10 @@
         ],
         "defaultCode": 58892,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -735,7 +938,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 25
+      "iconIdx": 28
     },
     {
       "icon": {
@@ -750,7 +953,10 @@
         ],
         "defaultCode": 58893,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -763,7 +969,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 26
+      "iconIdx": 29
     },
     {
       "icon": {
@@ -778,7 +984,10 @@
         ],
         "defaultCode": 58894,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -791,7 +1000,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 27
+      "iconIdx": 30
     },
     {
       "icon": {
@@ -806,7 +1015,10 @@
         ],
         "defaultCode": 58895,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -819,7 +1031,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 28
+      "iconIdx": 31
     },
     {
       "icon": {
@@ -834,7 +1046,10 @@
         ],
         "defaultCode": 58896,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -847,7 +1062,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 29
+      "iconIdx": 32
     },
     {
       "icon": {
@@ -861,7 +1076,10 @@
         ],
         "defaultCode": 58897,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -874,7 +1092,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 30
+      "iconIdx": 33
     },
     {
       "icon": {
@@ -889,7 +1107,10 @@
         ],
         "defaultCode": 58898,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -902,7 +1123,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 31
+      "iconIdx": 34
     },
     {
       "icon": {
@@ -916,7 +1137,10 @@
         ],
         "defaultCode": 58899,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -929,7 +1153,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 32
+      "iconIdx": 35
     },
     {
       "icon": {
@@ -946,7 +1170,12 @@
           {}
         ],
         "isMulticolor": false,
-        "isMulticolor2": false
+        "isMulticolor2": false,
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -961,7 +1190,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 33
+      "iconIdx": 36
     },
     {
       "icon": {
@@ -975,7 +1204,10 @@
         ],
         "defaultCode": 58901,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -988,7 +1220,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 34
+      "iconIdx": 37
     },
     {
       "icon": {
@@ -1002,7 +1234,10 @@
         ],
         "defaultCode": 58902,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1015,7 +1250,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 35
+      "iconIdx": 38
     },
     {
       "icon": {
@@ -1029,7 +1264,10 @@
         ],
         "defaultCode": 58903,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1042,7 +1280,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 36
+      "iconIdx": 39
     },
     {
       "icon": {
@@ -1057,7 +1295,10 @@
         ],
         "defaultCode": 58904,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1070,7 +1311,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 37
+      "iconIdx": 40
     },
     {
       "icon": {
@@ -1084,7 +1325,10 @@
         ],
         "defaultCode": 58905,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1097,7 +1341,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 38
+      "iconIdx": 41
     },
     {
       "icon": {
@@ -1111,7 +1355,10 @@
         ],
         "defaultCode": 58906,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1124,7 +1371,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 39
+      "iconIdx": 42
     },
     {
       "icon": {
@@ -1138,7 +1385,10 @@
         ],
         "defaultCode": 58911,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1151,7 +1401,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 40
+      "iconIdx": 43
     },
     {
       "icon": {
@@ -1166,7 +1416,10 @@
         ],
         "defaultCode": 58912,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1179,7 +1432,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 41
+      "iconIdx": 44
     },
     {
       "icon": {
@@ -1194,7 +1447,10 @@
         ],
         "defaultCode": 58913,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1207,7 +1463,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 42
+      "iconIdx": 45
     },
     {
       "icon": {
@@ -1221,7 +1477,10 @@
         ],
         "defaultCode": 58914,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1234,7 +1493,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 43
+      "iconIdx": 46
     },
     {
       "icon": {
@@ -1249,7 +1508,10 @@
         ],
         "defaultCode": 58915,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1262,7 +1524,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 44
+      "iconIdx": 47
     },
     {
       "icon": {
@@ -1277,7 +1539,10 @@
         ],
         "defaultCode": 58916,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1290,7 +1555,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 45
+      "iconIdx": 48
     },
     {
       "icon": {
@@ -1305,7 +1570,10 @@
         ],
         "defaultCode": 58917,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1318,7 +1586,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 46
+      "iconIdx": 49
     },
     {
       "icon": {
@@ -1333,7 +1601,10 @@
         ],
         "defaultCode": 58920,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1346,7 +1617,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 47
+      "iconIdx": 50
     },
     {
       "icon": {
@@ -1361,7 +1632,10 @@
         ],
         "defaultCode": 58921,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1374,7 +1648,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 48
+      "iconIdx": 51
     },
     {
       "icon": {
@@ -1388,7 +1662,10 @@
         ],
         "defaultCode": 58922,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1401,7 +1678,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 49
+      "iconIdx": 52
     },
     {
       "icon": {
@@ -1415,7 +1692,10 @@
         ],
         "defaultCode": 58923,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1428,7 +1708,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 50
+      "iconIdx": 53
     },
     {
       "icon": {
@@ -1443,7 +1723,10 @@
         ],
         "defaultCode": 58924,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1455,7 +1738,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 51
+      "iconIdx": 54
     },
     {
       "icon": {
@@ -1469,7 +1752,10 @@
         ],
         "defaultCode": 58925,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1482,7 +1768,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 52
+      "iconIdx": 55
     },
     {
       "icon": {
@@ -1496,7 +1782,10 @@
         ],
         "defaultCode": 58926,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1509,7 +1798,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 53
+      "iconIdx": 56
     },
     {
       "icon": {
@@ -1523,7 +1812,10 @@
         ],
         "defaultCode": 58927,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1536,7 +1828,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 54
+      "iconIdx": 57
     },
     {
       "icon": {
@@ -1550,7 +1842,10 @@
         ],
         "defaultCode": 58928,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1563,7 +1858,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 55
+      "iconIdx": 58
     },
     {
       "icon": {
@@ -1577,7 +1872,10 @@
         ],
         "defaultCode": 58929,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1590,7 +1888,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 56
+      "iconIdx": 59
     },
     {
       "icon": {
@@ -1604,7 +1902,10 @@
         ],
         "defaultCode": 58930,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1617,7 +1918,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 57
+      "iconIdx": 60
     },
     {
       "icon": {
@@ -1632,7 +1933,10 @@
         ],
         "defaultCode": 58931,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1645,7 +1949,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 58
+      "iconIdx": 61
     },
     {
       "icon": {
@@ -1660,7 +1964,10 @@
         ],
         "defaultCode": 58932,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1673,7 +1980,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 59
+      "iconIdx": 62
     },
     {
       "icon": {
@@ -1688,7 +1995,10 @@
         ],
         "defaultCode": 58933,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1701,7 +2011,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 60
+      "iconIdx": 63
     },
     {
       "icon": {
@@ -1715,7 +2025,10 @@
         ],
         "defaultCode": 58934,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1728,7 +2041,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 61
+      "iconIdx": 64
     },
     {
       "icon": {
@@ -1742,7 +2055,10 @@
         ],
         "defaultCode": 58935,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1755,7 +2071,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 62
+      "iconIdx": 65
     },
     {
       "icon": {
@@ -1770,7 +2086,10 @@
         ],
         "defaultCode": 58936,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1783,7 +2102,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 63
+      "iconIdx": 66
     },
     {
       "icon": {
@@ -1798,7 +2117,10 @@
         ],
         "defaultCode": 58937,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1811,7 +2133,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 64
+      "iconIdx": 67
     },
     {
       "icon": {
@@ -1826,7 +2148,10 @@
         ],
         "defaultCode": 58938,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1839,7 +2164,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 65
+      "iconIdx": 68
     },
     {
       "icon": {
@@ -1854,7 +2179,10 @@
         ],
         "defaultCode": 58939,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1867,7 +2195,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 66
+      "iconIdx": 69
     },
     {
       "icon": {
@@ -1882,7 +2210,10 @@
         ],
         "defaultCode": 58940,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1895,7 +2226,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 67
+      "iconIdx": 70
     },
     {
       "icon": {
@@ -1909,7 +2240,10 @@
         ],
         "defaultCode": 58941,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1922,7 +2256,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 68
+      "iconIdx": 71
     },
     {
       "icon": {
@@ -1937,7 +2271,10 @@
         ],
         "defaultCode": 58942,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1950,7 +2287,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 69
+      "iconIdx": 72
     },
     {
       "icon": {
@@ -1965,7 +2302,10 @@
         ],
         "defaultCode": 58943,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -1978,7 +2318,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 70
+      "iconIdx": 73
     },
     {
       "icon": {
@@ -1993,7 +2333,10 @@
         ],
         "defaultCode": 58946,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2006,7 +2349,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 71
+      "iconIdx": 74
     },
     {
       "icon": {
@@ -2021,7 +2364,10 @@
         ],
         "defaultCode": 58947,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2034,7 +2380,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 72
+      "iconIdx": 75
     },
     {
       "icon": {
@@ -2049,7 +2395,10 @@
         ],
         "defaultCode": 58948,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2062,7 +2411,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 73
+      "iconIdx": 76
     },
     {
       "icon": {
@@ -2077,7 +2426,10 @@
         ],
         "defaultCode": 58949,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2090,7 +2442,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 74
+      "iconIdx": 77
     },
     {
       "icon": {
@@ -2105,7 +2457,10 @@
         ],
         "defaultCode": 58950,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2118,7 +2473,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 75
+      "iconIdx": 78
     },
     {
       "icon": {
@@ -2133,7 +2488,10 @@
         ],
         "defaultCode": 58951,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2146,7 +2504,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 76
+      "iconIdx": 79
     },
     {
       "icon": {
@@ -2161,7 +2519,10 @@
         ],
         "defaultCode": 58952,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2174,7 +2535,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 77
+      "iconIdx": 80
     },
     {
       "icon": {
@@ -2188,7 +2549,10 @@
         ],
         "defaultCode": 58953,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2201,7 +2565,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 78
+      "iconIdx": 81
     },
     {
       "icon": {
@@ -2215,7 +2579,10 @@
         ],
         "defaultCode": 58954,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2228,7 +2595,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 79
+      "iconIdx": 82
     },
     {
       "icon": {
@@ -2242,7 +2609,10 @@
         ],
         "defaultCode": 58955,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2255,7 +2625,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 80
+      "iconIdx": 83
     },
     {
       "icon": {
@@ -2269,7 +2639,10 @@
         ],
         "defaultCode": 58956,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2282,7 +2655,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 81
+      "iconIdx": 84
     },
     {
       "icon": {
@@ -2296,7 +2669,10 @@
         ],
         "defaultCode": 58957,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2309,7 +2685,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 82
+      "iconIdx": 85
     },
     {
       "icon": {
@@ -2323,7 +2699,10 @@
         ],
         "defaultCode": 58958,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2336,7 +2715,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 83
+      "iconIdx": 86
     },
     {
       "icon": {
@@ -2350,7 +2729,10 @@
         ],
         "defaultCode": 58959,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2363,7 +2745,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 84
+      "iconIdx": 87
     },
     {
       "icon": {
@@ -2377,7 +2759,10 @@
         ],
         "defaultCode": 58960,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2390,7 +2775,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 85
+      "iconIdx": 88
     },
     {
       "icon": {
@@ -2404,7 +2789,10 @@
         ],
         "defaultCode": 58961,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2417,7 +2805,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 86
+      "iconIdx": 89
     },
     {
       "icon": {
@@ -2431,7 +2819,10 @@
         ],
         "defaultCode": 58962,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2444,7 +2835,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 87
+      "iconIdx": 90
     },
     {
       "icon": {
@@ -2458,7 +2849,10 @@
         ],
         "defaultCode": 58963,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2471,7 +2865,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 88
+      "iconIdx": 91
     },
     {
       "icon": {
@@ -2485,7 +2879,10 @@
         ],
         "defaultCode": 58964,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2498,7 +2895,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 89
+      "iconIdx": 92
     },
     {
       "icon": {
@@ -2512,7 +2909,10 @@
         ],
         "defaultCode": 58965,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2525,7 +2925,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 90
+      "iconIdx": 93
     },
     {
       "icon": {
@@ -2539,7 +2939,10 @@
         ],
         "defaultCode": 58966,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2552,7 +2955,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 91
+      "iconIdx": 94
     },
     {
       "icon": {
@@ -2567,7 +2970,10 @@
         ],
         "defaultCode": 58967,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2580,7 +2986,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 92
+      "iconIdx": 95
     },
     {
       "icon": {
@@ -2595,7 +3001,10 @@
         ],
         "defaultCode": 58968,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2608,7 +3017,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 93
+      "iconIdx": 96
     },
     {
       "icon": {
@@ -2622,7 +3031,10 @@
         ],
         "defaultCode": 58969,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2635,7 +3047,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 94
+      "iconIdx": 97
     },
     {
       "icon": {
@@ -2649,7 +3061,10 @@
         ],
         "defaultCode": 58970,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2662,7 +3077,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 95
+      "iconIdx": 98
     },
     {
       "icon": {
@@ -2676,7 +3091,10 @@
         ],
         "defaultCode": 58971,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2689,7 +3107,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 96
+      "iconIdx": 99
     },
     {
       "icon": {
@@ -2703,7 +3121,10 @@
         ],
         "defaultCode": 58972,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2716,7 +3137,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 97
+      "iconIdx": 100
     },
     {
       "icon": {
@@ -2730,7 +3151,10 @@
         ],
         "defaultCode": 58973,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2743,7 +3167,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 98
+      "iconIdx": 101
     },
     {
       "icon": {
@@ -2757,7 +3181,10 @@
         ],
         "defaultCode": 58974,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2770,7 +3197,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 99
+      "iconIdx": 102
     },
     {
       "icon": {
@@ -2784,7 +3211,10 @@
         ],
         "defaultCode": 58975,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2797,7 +3227,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 100
+      "iconIdx": 103
     },
     {
       "icon": {
@@ -2812,7 +3242,10 @@
         ],
         "defaultCode": 58976,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2825,7 +3258,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 101
+      "iconIdx": 104
     },
     {
       "icon": {
@@ -2839,7 +3272,10 @@
         ],
         "defaultCode": 58977,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2852,7 +3288,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 102
+      "iconIdx": 105
     },
     {
       "icon": {
@@ -2866,7 +3302,10 @@
         ],
         "defaultCode": 58978,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2879,7 +3318,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 103
+      "iconIdx": 106
     },
     {
       "icon": {
@@ -2893,7 +3332,10 @@
         ],
         "defaultCode": 58979,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2906,7 +3348,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 104
+      "iconIdx": 107
     },
     {
       "icon": {
@@ -2920,7 +3362,10 @@
         ],
         "defaultCode": 58980,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2933,7 +3378,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 105
+      "iconIdx": 108
     },
     {
       "icon": {
@@ -2947,7 +3392,10 @@
         ],
         "defaultCode": 58981,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2960,7 +3408,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 106
+      "iconIdx": 109
     },
     {
       "icon": {
@@ -2974,7 +3422,10 @@
         ],
         "defaultCode": 58982,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -2987,7 +3438,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 107
+      "iconIdx": 110
     },
     {
       "icon": {
@@ -3002,7 +3453,10 @@
         ],
         "defaultCode": 58983,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3015,7 +3469,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 108
+      "iconIdx": 111
     },
     {
       "icon": {
@@ -3029,7 +3483,10 @@
         ],
         "defaultCode": 58984,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3042,7 +3499,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 109
+      "iconIdx": 112
     },
     {
       "icon": {
@@ -3057,7 +3514,10 @@
         ],
         "defaultCode": 58985,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3070,7 +3530,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 110
+      "iconIdx": 113
     },
     {
       "icon": {
@@ -3084,7 +3544,10 @@
         ],
         "defaultCode": 58986,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3097,7 +3560,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 111
+      "iconIdx": 114
     },
     {
       "icon": {
@@ -3111,7 +3574,10 @@
         ],
         "defaultCode": 58987,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3124,7 +3590,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 112
+      "iconIdx": 115
     },
     {
       "icon": {
@@ -3138,7 +3604,10 @@
         ],
         "defaultCode": 58988,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3151,7 +3620,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 113
+      "iconIdx": 116
     },
     {
       "icon": {
@@ -3165,7 +3634,10 @@
         ],
         "defaultCode": 58989,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3178,7 +3650,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 114
+      "iconIdx": 117
     },
     {
       "icon": {
@@ -3192,7 +3664,10 @@
         ],
         "defaultCode": 58990,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3205,7 +3680,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 115
+      "iconIdx": 118
     },
     {
       "icon": {
@@ -3219,7 +3694,10 @@
         ],
         "defaultCode": 58991,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3232,7 +3710,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 116
+      "iconIdx": 119
     },
     {
       "icon": {
@@ -3246,7 +3724,10 @@
         ],
         "defaultCode": 58992,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3259,7 +3740,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 117
+      "iconIdx": 120
     },
     {
       "icon": {
@@ -3273,7 +3754,10 @@
         ],
         "defaultCode": 58993,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3286,7 +3770,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 118
+      "iconIdx": 121
     },
     {
       "icon": {
@@ -3301,7 +3785,10 @@
         ],
         "defaultCode": 58994,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3314,7 +3801,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 119
+      "iconIdx": 122
     },
     {
       "icon": {
@@ -3328,7 +3815,10 @@
         ],
         "defaultCode": 58995,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3341,7 +3831,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 120
+      "iconIdx": 123
     },
     {
       "icon": {
@@ -3355,7 +3845,10 @@
         ],
         "defaultCode": 58996,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3368,7 +3861,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 121
+      "iconIdx": 124
     },
     {
       "icon": {
@@ -3382,7 +3875,10 @@
         ],
         "defaultCode": 58997,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3395,7 +3891,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 122
+      "iconIdx": 125
     },
     {
       "icon": {
@@ -3409,7 +3905,10 @@
         ],
         "defaultCode": 58998,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3422,7 +3921,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 123
+      "iconIdx": 126
     },
     {
       "icon": {
@@ -3437,7 +3936,10 @@
         ],
         "defaultCode": 58999,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3450,7 +3952,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 124
+      "iconIdx": 127
     },
     {
       "icon": {
@@ -3464,7 +3966,10 @@
         ],
         "defaultCode": 59000,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3477,7 +3982,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 125
+      "iconIdx": 128
     },
     {
       "icon": {
@@ -3491,7 +3996,10 @@
         ],
         "defaultCode": 59001,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3504,7 +4012,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 126
+      "iconIdx": 129
     },
     {
       "icon": {
@@ -3518,7 +4026,10 @@
         ],
         "defaultCode": 59002,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3531,7 +4042,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 127
+      "iconIdx": 130
     },
     {
       "icon": {
@@ -3545,7 +4056,10 @@
         ],
         "defaultCode": 59003,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3558,7 +4072,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 128
+      "iconIdx": 131
     },
     {
       "icon": {
@@ -3572,7 +4086,10 @@
         ],
         "defaultCode": 59004,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3585,7 +4102,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 129
+      "iconIdx": 132
     },
     {
       "icon": {
@@ -3599,7 +4116,10 @@
         ],
         "defaultCode": 59005,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3612,7 +4132,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 130
+      "iconIdx": 133
     },
     {
       "icon": {
@@ -3626,7 +4146,10 @@
         ],
         "defaultCode": 59006,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3639,7 +4162,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 131
+      "iconIdx": 134
     },
     {
       "icon": {
@@ -3653,7 +4176,10 @@
         ],
         "defaultCode": 59007,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3666,7 +4192,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 132
+      "iconIdx": 135
     },
     {
       "icon": {
@@ -3680,7 +4206,10 @@
         ],
         "defaultCode": 59008,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3693,7 +4222,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 133
+      "iconIdx": 136
     },
     {
       "icon": {
@@ -3707,7 +4236,10 @@
         ],
         "defaultCode": 59009,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3720,7 +4252,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 134
+      "iconIdx": 137
     },
     {
       "icon": {
@@ -3734,7 +4266,10 @@
         ],
         "defaultCode": 59010,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3747,7 +4282,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 135
+      "iconIdx": 138
     },
     {
       "icon": {
@@ -3761,7 +4296,10 @@
         ],
         "defaultCode": 59011,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3774,7 +4312,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 136
+      "iconIdx": 139
     },
     {
       "icon": {
@@ -3788,7 +4326,10 @@
         ],
         "defaultCode": 59012,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3801,7 +4342,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 137
+      "iconIdx": 140
     },
     {
       "icon": {
@@ -3815,7 +4356,10 @@
         ],
         "defaultCode": 59013,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3828,7 +4372,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 138
+      "iconIdx": 141
     },
     {
       "icon": {
@@ -3842,7 +4386,10 @@
         ],
         "defaultCode": 59014,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3855,7 +4402,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 139
+      "iconIdx": 142
     },
     {
       "icon": {
@@ -3869,7 +4416,10 @@
         ],
         "defaultCode": 59015,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3882,7 +4432,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 140
+      "iconIdx": 143
     },
     {
       "icon": {
@@ -3896,7 +4446,10 @@
         ],
         "defaultCode": 59016,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3909,7 +4462,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 141
+      "iconIdx": 144
     },
     {
       "icon": {
@@ -3923,7 +4476,10 @@
         ],
         "defaultCode": 59017,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3936,7 +4492,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 142
+      "iconIdx": 145
     },
     {
       "icon": {
@@ -3951,7 +4507,10 @@
         ],
         "defaultCode": 59018,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3964,7 +4523,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 143
+      "iconIdx": 146
     },
     {
       "icon": {
@@ -3978,7 +4537,10 @@
         ],
         "defaultCode": 59019,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3991,7 +4553,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 144
+      "iconIdx": 147
     },
     {
       "icon": {
@@ -4005,7 +4567,10 @@
         ],
         "defaultCode": 59020,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4018,7 +4583,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 145
+      "iconIdx": 148
     },
     {
       "icon": {
@@ -4033,7 +4598,10 @@
         ],
         "defaultCode": 59021,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4046,7 +4614,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 146
+      "iconIdx": 149
     },
     {
       "icon": {
@@ -4061,7 +4629,10 @@
         ],
         "defaultCode": 59022,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4074,7 +4645,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 147
+      "iconIdx": 150
     },
     {
       "icon": {
@@ -4089,7 +4660,10 @@
         ],
         "defaultCode": 59023,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4102,7 +4676,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 148
+      "iconIdx": 151
     },
     {
       "icon": {
@@ -4117,7 +4691,10 @@
         ],
         "defaultCode": 59024,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4130,7 +4707,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 149
+      "iconIdx": 152
     },
     {
       "icon": {
@@ -4145,7 +4722,10 @@
         ],
         "defaultCode": 59025,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4158,7 +4738,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 150
+      "iconIdx": 153
     },
     {
       "icon": {
@@ -4172,7 +4752,10 @@
         ],
         "defaultCode": 59026,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4185,7 +4768,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 151
+      "iconIdx": 154
     },
     {
       "icon": {
@@ -4199,7 +4782,10 @@
         ],
         "defaultCode": 59027,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4212,7 +4798,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 152
+      "iconIdx": 155
     },
     {
       "icon": {
@@ -4226,7 +4812,10 @@
         ],
         "defaultCode": 59028,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4239,7 +4828,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 153
+      "iconIdx": 156
     },
     {
       "icon": {
@@ -4253,7 +4842,10 @@
         ],
         "defaultCode": 59029,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4266,7 +4858,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 154
+      "iconIdx": 157
     },
     {
       "icon": {
@@ -4281,7 +4873,10 @@
         ],
         "defaultCode": 59648,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4294,7 +4889,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 155
+      "iconIdx": 158
     },
     {
       "icon": {
@@ -4308,7 +4903,10 @@
         ],
         "defaultCode": 59649,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4321,7 +4919,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 156
+      "iconIdx": 159
     },
     {
       "icon": {
@@ -4335,7 +4933,10 @@
         ],
         "defaultCode": 59650,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4348,7 +4949,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 157
+      "iconIdx": 160
     },
     {
       "icon": {
@@ -4363,7 +4964,10 @@
         ],
         "defaultCode": 59651,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4376,7 +4980,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 158
+      "iconIdx": 161
     },
     {
       "icon": {
@@ -4390,7 +4994,10 @@
         ],
         "defaultCode": 59652,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4403,7 +5010,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 159
+      "iconIdx": 162
     },
     {
       "icon": {
@@ -4418,7 +5025,10 @@
         ],
         "defaultCode": 59653,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4431,7 +5041,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 160
+      "iconIdx": 163
     },
     {
       "icon": {
@@ -4446,7 +5056,10 @@
         ],
         "defaultCode": 59654,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4459,7 +5072,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 161
+      "iconIdx": 164
     },
     {
       "icon": {
@@ -4473,7 +5086,10 @@
         ],
         "defaultCode": 59655,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4486,7 +5102,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 162
+      "iconIdx": 165
     },
     {
       "icon": {
@@ -4500,7 +5116,10 @@
         ],
         "defaultCode": 59656,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4513,7 +5132,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 163
+      "iconIdx": 166
     },
     {
       "icon": {
@@ -4528,7 +5147,10 @@
         ],
         "defaultCode": 59657,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4541,7 +5163,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 164
+      "iconIdx": 167
     },
     {
       "icon": {
@@ -4555,7 +5177,10 @@
         ],
         "defaultCode": 59658,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4568,7 +5193,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 165
+      "iconIdx": 168
     },
     {
       "icon": {
@@ -4583,7 +5208,10 @@
         ],
         "defaultCode": 59659,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4596,7 +5224,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 166
+      "iconIdx": 169
     },
     {
       "icon": {
@@ -4610,7 +5238,10 @@
         ],
         "defaultCode": 59660,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4623,7 +5254,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 167
+      "iconIdx": 170
     },
     {
       "icon": {
@@ -4638,7 +5269,10 @@
         ],
         "defaultCode": 59661,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4651,7 +5285,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 168
+      "iconIdx": 171
     },
     {
       "icon": {
@@ -4665,7 +5299,10 @@
         ],
         "defaultCode": 59662,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4678,7 +5315,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 169
+      "iconIdx": 172
     },
     {
       "icon": {
@@ -4692,7 +5329,10 @@
         ],
         "defaultCode": 59663,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4705,7 +5345,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 170
+      "iconIdx": 173
     },
     {
       "icon": {
@@ -4720,7 +5360,10 @@
         ],
         "defaultCode": 59664,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4733,7 +5376,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 171
+      "iconIdx": 174
     },
     {
       "icon": {
@@ -4747,7 +5390,10 @@
         ],
         "defaultCode": 59665,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4760,7 +5406,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 172
+      "iconIdx": 175
     },
     {
       "icon": {
@@ -4774,7 +5420,10 @@
         ],
         "defaultCode": 59666,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4787,7 +5436,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 173
+      "iconIdx": 176
     },
     {
       "icon": {
@@ -4802,7 +5451,10 @@
         ],
         "defaultCode": 59667,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4815,7 +5467,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 174
+      "iconIdx": 177
     },
     {
       "icon": {
@@ -4829,7 +5481,10 @@
         ],
         "defaultCode": 59668,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4842,7 +5497,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 175
+      "iconIdx": 178
     },
     {
       "icon": {
@@ -4856,7 +5511,10 @@
         ],
         "defaultCode": 59669,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4869,7 +5527,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 176
+      "iconIdx": 179
     },
     {
       "icon": {
@@ -4883,7 +5541,10 @@
         ],
         "defaultCode": 59670,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4896,7 +5557,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 177
+      "iconIdx": 180
     },
     {
       "icon": {
@@ -4911,7 +5572,10 @@
         ],
         "defaultCode": 59671,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4924,7 +5588,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 178
+      "iconIdx": 181
     },
     {
       "icon": {
@@ -4939,7 +5603,10 @@
         ],
         "defaultCode": 59672,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4952,7 +5619,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 179
+      "iconIdx": 182
     },
     {
       "icon": {
@@ -4966,7 +5633,10 @@
         ],
         "defaultCode": 59673,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -4979,7 +5649,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 180
+      "iconIdx": 183
     },
     {
       "icon": {
@@ -4994,7 +5664,10 @@
         ],
         "defaultCode": 59674,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5007,7 +5680,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 181
+      "iconIdx": 184
     },
     {
       "icon": {
@@ -5022,7 +5695,10 @@
         ],
         "defaultCode": 59675,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5035,7 +5711,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 182
+      "iconIdx": 185
     },
     {
       "icon": {
@@ -5050,7 +5726,10 @@
         ],
         "defaultCode": 59676,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5063,7 +5742,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 183
+      "iconIdx": 186
     },
     {
       "icon": {
@@ -5078,7 +5757,10 @@
         ],
         "defaultCode": 59677,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5091,7 +5773,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 184
+      "iconIdx": 187
     },
     {
       "icon": {
@@ -5106,7 +5788,10 @@
         ],
         "defaultCode": 59678,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5119,7 +5804,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 185
+      "iconIdx": 188
     },
     {
       "icon": {
@@ -5134,7 +5819,10 @@
         ],
         "defaultCode": 59679,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5147,7 +5835,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 186
+      "iconIdx": 189
     },
     {
       "icon": {
@@ -5162,7 +5850,10 @@
         ],
         "defaultCode": 59680,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5175,7 +5866,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 187
+      "iconIdx": 190
     },
     {
       "icon": {
@@ -5189,7 +5880,10 @@
         ],
         "defaultCode": 59681,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5202,7 +5896,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 188
+      "iconIdx": 191
     },
     {
       "icon": {
@@ -5216,7 +5910,10 @@
         ],
         "defaultCode": 59682,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5229,7 +5926,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 189
+      "iconIdx": 192
     },
     {
       "icon": {
@@ -5243,7 +5940,10 @@
         ],
         "defaultCode": 59683,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5256,7 +5956,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 190
+      "iconIdx": 193
     },
     {
       "icon": {
@@ -5271,7 +5971,10 @@
         ],
         "defaultCode": 59684,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5284,7 +5987,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 191
+      "iconIdx": 194
     },
     {
       "icon": {
@@ -5298,7 +6001,10 @@
         ],
         "defaultCode": 59685,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5311,7 +6017,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 192
+      "iconIdx": 195
     },
     {
       "icon": {
@@ -5325,7 +6031,10 @@
         ],
         "defaultCode": 59686,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5338,7 +6047,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 193
+      "iconIdx": 196
     },
     {
       "icon": {
@@ -5352,7 +6061,10 @@
         ],
         "defaultCode": 59687,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5365,7 +6077,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 194
+      "iconIdx": 197
     },
     {
       "icon": {
@@ -5380,7 +6092,10 @@
         ],
         "defaultCode": 59688,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5393,7 +6108,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 195
+      "iconIdx": 198
     },
     {
       "icon": {
@@ -5407,7 +6122,10 @@
         ],
         "defaultCode": 59689,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5420,7 +6138,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 196
+      "iconIdx": 199
     },
     {
       "icon": {
@@ -5434,7 +6152,10 @@
         ],
         "defaultCode": 59690,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5447,7 +6168,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 197
+      "iconIdx": 200
     },
     {
       "icon": {
@@ -5461,7 +6182,10 @@
         ],
         "defaultCode": 59691,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5474,7 +6198,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 198
+      "iconIdx": 201
     },
     {
       "icon": {
@@ -5488,7 +6212,10 @@
         ],
         "defaultCode": 59692,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5501,7 +6228,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 199
+      "iconIdx": 202
     },
     {
       "icon": {
@@ -5515,7 +6242,10 @@
         ],
         "defaultCode": 59693,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5528,7 +6258,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 200
+      "iconIdx": 203
     },
     {
       "icon": {
@@ -5542,7 +6272,10 @@
         ],
         "defaultCode": 59694,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5555,7 +6288,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 201
+      "iconIdx": 204
     },
     {
       "icon": {
@@ -5569,7 +6302,10 @@
         ],
         "defaultCode": 59695,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5582,7 +6318,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 202
+      "iconIdx": 205
     },
     {
       "icon": {
@@ -5596,7 +6332,10 @@
         ],
         "defaultCode": 59696,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5609,7 +6348,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 203
+      "iconIdx": 206
     },
     {
       "icon": {
@@ -5624,7 +6363,10 @@
         ],
         "defaultCode": 59697,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5637,7 +6379,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 204
+      "iconIdx": 207
     },
     {
       "icon": {
@@ -5652,7 +6394,10 @@
         ],
         "defaultCode": 59698,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5665,7 +6410,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 205
+      "iconIdx": 208
     },
     {
       "icon": {
@@ -5679,7 +6424,10 @@
         ],
         "defaultCode": 59699,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5692,7 +6440,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 206
+      "iconIdx": 209
     },
     {
       "icon": {
@@ -5706,7 +6454,10 @@
         ],
         "defaultCode": 59700,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5719,7 +6470,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 207
+      "iconIdx": 210
     },
     {
       "icon": {
@@ -5733,7 +6484,10 @@
         ],
         "defaultCode": 59701,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5746,7 +6500,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 208
+      "iconIdx": 211
     },
     {
       "icon": {
@@ -5761,7 +6515,10 @@
         ],
         "defaultCode": 59702,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5774,7 +6531,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 209
+      "iconIdx": 212
     },
     {
       "icon": {
@@ -5788,7 +6545,10 @@
         ],
         "defaultCode": 59703,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5801,7 +6561,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 210
+      "iconIdx": 213
     },
     {
       "icon": {
@@ -5815,7 +6575,10 @@
         ],
         "defaultCode": 59704,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5828,7 +6591,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 211
+      "iconIdx": 214
     },
     {
       "icon": {
@@ -5842,7 +6605,10 @@
         ],
         "defaultCode": 59705,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5855,7 +6621,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 212
+      "iconIdx": 215
     },
     {
       "icon": {
@@ -5869,7 +6635,10 @@
         ],
         "defaultCode": 59706,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5882,7 +6651,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 213
+      "iconIdx": 216
     },
     {
       "icon": {
@@ -5896,7 +6665,10 @@
         ],
         "defaultCode": 59707,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5909,7 +6681,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 214
+      "iconIdx": 217
     },
     {
       "icon": {
@@ -5923,7 +6695,10 @@
         ],
         "defaultCode": 59708,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5936,7 +6711,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 215
+      "iconIdx": 218
     },
     {
       "icon": {
@@ -5950,7 +6725,10 @@
         ],
         "defaultCode": 59709,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5963,7 +6741,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 216
+      "iconIdx": 219
     },
     {
       "icon": {
@@ -5977,7 +6755,10 @@
         ],
         "defaultCode": 59710,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -5990,7 +6771,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 217
+      "iconIdx": 220
     },
     {
       "icon": {
@@ -6004,7 +6785,10 @@
         ],
         "defaultCode": 59711,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6017,7 +6801,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 218
+      "iconIdx": 221
     },
     {
       "icon": {
@@ -6031,7 +6815,10 @@
         ],
         "defaultCode": 59713,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6044,7 +6831,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 219
+      "iconIdx": 222
     },
     {
       "icon": {
@@ -6058,7 +6845,10 @@
         ],
         "defaultCode": 59723,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6071,7 +6861,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 220
+      "iconIdx": 223
     },
     {
       "icon": {
@@ -6085,7 +6875,10 @@
         ],
         "defaultCode": 59724,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6098,7 +6891,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 221
+      "iconIdx": 224
     },
     {
       "icon": {
@@ -6112,7 +6905,10 @@
         ],
         "defaultCode": 59725,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6125,7 +6921,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 222
+      "iconIdx": 225
     },
     {
       "icon": {
@@ -6139,7 +6935,10 @@
         ],
         "defaultCode": 59726,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6152,7 +6951,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 223
+      "iconIdx": 226
     },
     {
       "icon": {
@@ -6166,7 +6965,10 @@
         ],
         "defaultCode": 59727,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6179,7 +6981,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 224
+      "iconIdx": 227
     },
     {
       "icon": {
@@ -6193,7 +6995,10 @@
         ],
         "defaultCode": 59728,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6206,7 +7011,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 225
+      "iconIdx": 228
     },
     {
       "icon": {
@@ -6221,7 +7026,10 @@
         ],
         "defaultCode": 61453,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6234,7 +7042,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 226
+      "iconIdx": 229
     },
     {
       "icon": {
@@ -6248,7 +7056,10 @@
         ],
         "defaultCode": 61482,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6261,7 +7072,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 227
+      "iconIdx": 230
     },
     {
       "icon": {
@@ -6276,7 +7087,10 @@
         ],
         "defaultCode": 61515,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6289,7 +7103,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 228
+      "iconIdx": 231
     },
     {
       "icon": {
@@ -6303,7 +7117,10 @@
         ],
         "defaultCode": 61642,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6316,7 +7133,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 229
+      "iconIdx": 232
     },
     {
       "icon": {
@@ -6330,7 +7147,10 @@
         ],
         "defaultCode": 61643,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6343,7 +7163,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 230
+      "iconIdx": 233
     },
     {
       "icon": {
@@ -6357,7 +7177,10 @@
         ],
         "defaultCode": 61792,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6370,7 +7193,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 231
+      "iconIdx": 234
     },
     {
       "icon": {
@@ -6384,7 +7207,10 @@
         ],
         "defaultCode": 62002,
         "grid": 14,
-        "attrs": []
+        "attrs": [],
+        "colorPermutations": {
+          "12552552551": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -6397,7 +7223,7 @@
       },
       "setIdx": 2,
       "setId": 0,
-      "iconIdx": 232
+      "iconIdx": 235
     }
   ],
   "height": 1024,

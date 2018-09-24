@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ajk7ac');
-  src:  url('fonts/icomoon.eot?ajk7ac#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ajk7ac') format('truetype'),
-    url('fonts/icomoon.woff?ajk7ac') format('woff'),
-    url('fonts/icomoon.svg?ajk7ac#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?r0ayya');
+  src:  url('fonts/icomoon.eot?r0ayya#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?r0ayya') format('truetype'),
+    url('fonts/icomoon.woff?r0ayya') format('woff'),
+    url('fonts/icomoon.svg?r0ayya#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-dice:before {
+  content: "\e949";
+}
+.icon-contains:before {
+  content: "\e94a";
+}
+.icon-contains-not:before {
+  content: "\e951";
+}
 .icon-thermometer:before {
   content: "\e900";
 }
