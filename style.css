@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?r0ayya');
-  src:  url('fonts/icomoon.eot?r0ayya#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?r0ayya') format('truetype'),
-    url('fonts/icomoon.woff?r0ayya') format('woff'),
-    url('fonts/icomoon.svg?r0ayya#icomoon') format('svg');
+  font-family: 'Actionbound-14';
+  src:  url('fonts/Actionbound-14.eot?g28buf');
+  src:  url('fonts/Actionbound-14.eot?g28buf#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?g28buf') format('truetype'),
+    url('fonts/Actionbound-14.woff?g28buf') format('woff'),
+    url('fonts/Actionbound-14.svg?g28buf#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'Actionbound-14' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bipa-natur2:before {
+  content: "\e952";
+}
+.icon-bipa-buehne:before {
+  content: "\e953";
+}
 .icon-dice:before {
   content: "\e949";
 }
