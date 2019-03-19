@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?g28buf');
-  src:  url('fonts/Actionbound-14.eot?g28buf#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?g28buf') format('truetype'),
-    url('fonts/Actionbound-14.woff?g28buf') format('woff'),
-    url('fonts/Actionbound-14.svg?g28buf#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?k6xaub');
+  src:  url('fonts/Actionbound-14.eot?k6xaub#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?k6xaub') format('truetype'),
+    url('fonts/Actionbound-14.woff?k6xaub') format('woff'),
+    url('fonts/Actionbound-14.svg?k6xaub#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,50 +24,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-bipa-natur2:before {
-  content: "\e952";
+.icon-fraport:before {
+  content: "\e954";
 }
-.icon-bipa-buehne:before {
-  content: "\e953";
+.icon-instagram:before {
+  content: "\e955";
 }
-.icon-dice:before {
-  content: "\e949";
+.icon-sitemap:before {
+  content: "\e956";
 }
-.icon-contains:before {
-  content: "\e94a";
-}
-.icon-contains-not:before {
-  content: "\e951";
-}
-.icon-thermometer:before {
-  content: "\e900";
-}
-.icon-plus:before {
-  content: "\e640";
-}
-.icon-minus:before {
-  content: "\e641";
-}
-.icon-equals:before {
-  content: "\e901";
-}
-.icon-divide:before {
-  content: "\e902";
-}
-.icon-greater-than:before {
-  content: "\e903";
-}
-.icon-less-than:before {
-  content: "\e904";
-}
-.icon-not-equal:before {
-  content: "\e905";
-}
-.icon-tablet:before {
-  content: "\e906";
-}
-.icon-element:before {
-  content: "\e907";
+.icon-wikipedia:before {
+  content: "\e957";
 }
 .icon-chain:before {
   content: "\e015";
@@ -251,6 +218,12 @@
 }
 .icon-minus-sign:before {
   content: "\e63f";
+}
+.icon-plus:before {
+  content: "\e640";
+}
+.icon-minus:before {
+  content: "\e641";
 }
 .icon-remove-sign:before {
   content: "\e642";
@@ -504,6 +477,30 @@
 .icon-bpcqr:before {
   content: "\e695";
 }
+.icon-thermometer:before {
+  content: "\e900";
+}
+.icon-equals:before {
+  content: "\e901";
+}
+.icon-divide:before {
+  content: "\e902";
+}
+.icon-greater-than:before {
+  content: "\e903";
+}
+.icon-less-than:before {
+  content: "\e904";
+}
+.icon-not-equal:before {
+  content: "\e905";
+}
+.icon-tablet:before {
+  content: "\e906";
+}
+.icon-element:before {
+  content: "\e907";
+}
 .icon-google-plus:before {
   content: "\e908";
 }
@@ -699,6 +696,12 @@
 .icon-bipa-legal-noborder:before {
   content: "\e948";
 }
+.icon-dice:before {
+  content: "\e949";
+}
+.icon-contains:before {
+  content: "\e94a";
+}
 .icon-spoton-niedersachsen:before {
   content: "\e94b";
 }
@@ -716,6 +719,15 @@
 }
 .icon-spoton-lupe:before {
   content: "\e950";
+}
+.icon-contains-not:before {
+  content: "\e951";
+}
+.icon-bipa-natur2:before {
+  content: "\e952";
+}
+.icon-bipa-buehne:before {
+  content: "\e953";
 }
 .icon-close:before {
   content: "\f00d";
