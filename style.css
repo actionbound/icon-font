@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?6t7ydg');
-  src:  url('fonts/Actionbound-14.eot?6t7ydg#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?6t7ydg') format('truetype'),
-    url('fonts/Actionbound-14.woff?6t7ydg') format('woff'),
-    url('fonts/Actionbound-14.svg?6t7ydg#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?1k7sq1');
+  src:  url('fonts/Actionbound-14.eot?1k7sq1#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?1k7sq1') format('truetype'),
+    url('fonts/Actionbound-14.woff?1k7sq1') format('woff'),
+    url('fonts/Actionbound-14.svg?1k7sq1#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bookmark:before {
+  content: "\e95a";
+}
+.icon-bookmark-outline:before {
+  content: "\e95b";
+}
+.icon-dollar:before {
+  content: "\e95c";
+}
+.icon-euro:before {
+  content: "\e95d";
+}
+.icon-love-half:before {
+  content: "\e95e";
+}
+.icon-love-empty:before {
+  content: "\e95f";
+}
+.icon-close-circle-alt:before {
+  content: "\e960";
+}
+.icon-arrow-left-long:before {
+  content: "\e961";
+}
+.icon-arrow-right-long:before {
+  content: "\e962";
+}
+.icon-arrow-up-long:before {
+  content: "\e963";
+}
+.icon-arrow-down-long:before {
+  content: "\e964";
+}
+.icon-cog:before {
+  content: "\e965";
+}
+.icon-cog-outline:before {
+  content: "\e966";
+}
+.icon-shuffle:before {
+  content: "\e967";
+}
 .icon-folder-share:before {
   content: "\e958";
 }
