@@ -1,1547 +1,1547 @@
 {
   "selection": [
     {
-      "order": 1068,
+      "order": 3,
       "prevSize": 28,
       "name": "move"
     },
     {
-      "order": 1069,
+      "order": 4,
       "prevSize": 28,
       "name": "filter"
     },
     {
-      "order": 1070,
+      "order": 5,
       "prevSize": 28,
       "name": "scorm"
     },
     {
-      "order": 1071,
+      "order": 6,
       "prevSize": 28,
       "name": "close-linear"
     },
     {
-      "order": 1072,
+      "order": 7,
       "name": "bookmark",
       "prevSize": 28
     },
     {
-      "order": 1073,
+      "order": 8,
       "prevSize": 28,
       "name": "bookmark-outline"
     },
     {
-      "order": 1074,
+      "order": 9,
       "prevSize": 28,
       "name": "dollar"
     },
     {
-      "order": 1075,
+      "order": 10,
       "name": "euro",
       "prevSize": 28
     },
     {
-      "order": 1076,
+      "order": 11,
       "name": "love-half",
       "prevSize": 28
     },
     {
-      "order": 1077,
+      "order": 12,
       "name": "love-empty",
       "prevSize": 28
     },
     {
-      "order": 1078,
+      "order": 13,
       "name": "close-circle-alt",
       "prevSize": 28
     },
     {
-      "order": 1079,
+      "order": 14,
       "name": "arrow-left-long",
       "prevSize": 28
     },
     {
-      "order": 1080,
+      "order": 15,
       "name": "arrow-right-long",
       "prevSize": 28
     },
     {
-      "order": 1081,
+      "order": 16,
       "name": "arrow-up-long",
       "prevSize": 28
     },
     {
-      "order": 1082,
+      "order": 17,
       "name": "arrow-down-long",
       "prevSize": 28
     },
     {
-      "order": 1083,
+      "order": 18,
       "prevSize": 28,
       "name": "cog"
     },
     {
-      "order": 1084,
+      "order": 19,
       "prevSize": 28,
       "name": "cog-outline"
     },
     {
-      "order": 1085,
+      "order": 20,
       "prevSize": 28,
       "name": "shuffle"
     },
     {
-      "order": 1086,
+      "order": 21,
       "name": "folder-share",
       "prevSize": 28
     },
     {
-      "order": 1087,
+      "order": 22,
       "name": "fraport-small",
       "prevSize": 28
     },
     {
-      "order": 1088,
+      "order": 23,
       "name": "fraport",
       "prevSize": 28
     },
     {
-      "order": 1089,
+      "order": 24,
       "name": "instagram",
       "prevSize": 28
     },
     {
-      "order": 1090,
+      "order": 25,
       "name": "sitemap",
       "prevSize": 28
     },
     {
-      "order": 1091,
+      "order": 26,
       "name": "wikipedia",
       "prevSize": 28
     },
     {
-      "order": 1092,
+      "order": 27,
       "prevSize": 28,
       "name": "chain"
     },
     {
-      "order": 1093,
+      "order": 28,
       "ligatures": "",
       "prevSize": 28,
       "name": "fullscreen"
     },
     {
-      "order": 1094,
+      "order": 29,
       "ligatures": "",
       "prevSize": 28,
       "name": "fullscreen-exit"
     },
     {
-      "order": 1095,
+      "order": 30,
       "ligatures": "",
       "prevSize": 28,
       "name": "export"
     },
     {
-      "order": 1096,
+      "order": 31,
       "ligatures": "",
       "prevSize": 28,
       "name": "play"
     },
     {
-      "order": 1097,
+      "order": 32,
       "ligatures": "",
       "prevSize": 28,
       "name": "play-circle-invert"
     },
     {
-      "order": 1098,
+      "order": 33,
       "ligatures": "",
       "prevSize": 28,
       "name": "music"
     },
     {
-      "order": 1099,
+      "order": 34,
       "ligatures": "",
       "prevSize": 28,
       "name": "video"
     },
     {
-      "order": 1100,
+      "order": 35,
       "ligatures": "",
       "prevSize": 28,
       "name": "pic"
     },
     {
-      "order": 1101,
+      "order": 36,
       "ligatures": "",
       "prevSize": 28,
       "name": "qr"
     },
     {
-      "order": 1102,
+      "order": 37,
       "ligatures": "",
       "prevSize": 28,
       "name": "directions"
     },
     {
-      "order": 1103,
+      "order": 38,
       "ligatures": "",
       "prevSize": 28,
       "name": "compass"
     },
     {
-      "order": 1104,
+      "order": 39,
       "ligatures": "",
       "prevSize": 28,
       "name": "target"
     },
     {
-      "order": 1105,
+      "order": 40,
       "ligatures": "",
       "prevSize": 28,
       "name": "wrench"
     },
     {
-      "order": 1106,
+      "order": 41,
       "ligatures": "",
       "prevSize": 28,
       "name": "apple"
     },
     {
-      "order": 1107,
+      "order": 42,
       "ligatures": "",
       "prevSize": 28,
       "name": "android"
     },
     {
-      "order": 1108,
+      "order": 43,
       "ligatures": "",
       "prevSize": 28,
       "name": "windows"
     },
     {
-      "order": 1109,
+      "order": 44,
       "ligatures": "",
       "prevSize": 28,
       "name": "star"
     },
     {
-      "order": 1110,
+      "order": 45,
       "ligatures": "",
       "prevSize": 28,
       "name": "star-half"
     },
     {
-      "order": 1111,
+      "order": 46,
       "ligatures": "",
       "prevSize": 28,
       "name": "star-empty"
     },
     {
-      "order": 1112,
+      "order": 47,
       "ligatures": "",
       "prevSize": 28,
       "name": "verified"
     },
     {
-      "order": 1113,
+      "order": 48,
       "ligatures": "",
       "prevSize": 28,
       "name": "earth-us"
     },
     {
-      "order": 1114,
+      "order": 49,
       "ligatures": "",
       "prevSize": 28,
       "name": "earth"
     },
     {
-      "order": 1115,
+      "order": 50,
       "ligatures": "",
       "prevSize": 28,
       "name": "trash"
     },
     {
-      "order": 1116,
+      "order": 51,
       "ligatures": "",
       "prevSize": 28,
       "name": "flag"
     },
     {
-      "order": 1117,
+      "order": 52,
       "ligatures": "",
       "prevSize": 28,
       "name": "info"
     },
     {
-      "order": 1118,
+      "order": 53,
       "ligatures": "",
       "prevSize": 28,
       "name": "question"
     },
     {
-      "order": 1119,
+      "order": 54,
       "ligatures": "",
       "prevSize": 28,
       "name": "attention"
     },
     {
-      "order": 1120,
+      "order": 55,
       "ligatures": "",
       "prevSize": 28,
       "name": "bubbles"
     },
     {
-      "order": 1121,
+      "order": 56,
       "ligatures": "",
       "prevSize": 28,
       "name": "feather"
     },
     {
-      "order": 1122,
+      "order": 57,
       "ligatures": "",
       "prevSize": 28,
       "name": "on-off"
     },
     {
-      "order": 1123,
+      "order": 58,
       "ligatures": "",
       "prevSize": 28,
       "name": "tag"
     },
     {
-      "order": 1124,
+      "order": 59,
       "ligatures": "",
       "prevSize": 28,
       "name": "tags"
     },
     {
-      "order": 1125,
+      "order": 60,
       "ligatures": "",
       "prevSize": 28,
       "name": "road-sign"
     },
     {
-      "order": 1126,
+      "order": 61,
       "ligatures": "",
       "prevSize": 28,
       "name": "loader"
     },
     {
-      "order": 1127,
+      "order": 62,
       "ligatures": "",
       "prevSize": 28,
       "name": "bug"
     },
     {
-      "order": 1128,
+      "order": 63,
       "ligatures": "",
       "prevSize": 28,
       "name": "distance"
     },
     {
-      "order": 1129,
+      "order": 64,
       "ligatures": "",
       "prevSize": 28,
       "name": "italic"
     },
     {
-      "order": 1130,
+      "order": 65,
       "ligatures": "",
       "prevSize": 28,
       "name": "bold"
     },
     {
-      "order": 1131,
+      "order": 66,
       "ligatures": "",
       "prevSize": 28,
       "name": "link"
     },
     {
-      "order": 1132,
+      "order": 67,
       "ligatures": "",
       "prevSize": 28,
       "name": "check"
     },
     {
-      "order": 1133,
+      "order": 68,
       "prevSize": 28,
       "name": "cancel"
     },
     {
-      "order": 1134,
+      "order": 69,
       "ligatures": "",
       "prevSize": 28,
       "name": "love"
     },
     {
-      "order": 1135,
+      "order": 70,
       "ligatures": "",
       "prevSize": 28,
       "name": "law"
     },
     {
-      "order": 1136,
+      "order": 71,
       "ligatures": "",
       "prevSize": 28,
       "name": "copy"
     },
     {
-      "order": 1137,
+      "order": 72,
       "ligatures": "",
       "prevSize": 28,
       "name": "upload"
     },
     {
-      "order": 1138,
+      "order": 73,
       "ligatures": "",
       "prevSize": 28,
       "name": "berlin"
     },
     {
-      "order": 1139,
+      "order": 74,
       "ligatures": "",
       "prevSize": 28,
       "name": "pen"
     },
     {
-      "order": 1140,
+      "order": 75,
       "ligatures": "",
       "prevSize": 28,
       "name": "search"
     },
     {
-      "order": 1141,
+      "order": 76,
       "ligatures": "",
       "prevSize": 28,
       "name": "redo"
     },
     {
-      "order": 1142,
+      "order": 77,
       "ligatures": "",
       "prevSize": 28,
       "name": "undo"
     },
     {
-      "order": 1143,
+      "order": 78,
       "ligatures": "",
       "prevSize": 28,
       "name": "reply"
     },
     {
-      "order": 1144,
+      "order": 79,
       "ligatures": "",
       "prevSize": 28,
       "name": "forward"
     },
     {
-      "order": 1145,
+      "order": 80,
       "ligatures": "",
       "prevSize": 28,
       "name": "chevron-up"
     },
     {
-      "order": 1146,
+      "order": 81,
       "ligatures": "",
       "prevSize": 28,
       "name": "chevron-down"
     },
     {
-      "order": 1147,
+      "order": 82,
       "ligatures": "",
       "prevSize": 28,
       "name": "double-angle-up"
     },
     {
-      "order": 1148,
+      "order": 83,
       "ligatures": "",
       "prevSize": 28,
       "name": "double-angle-down"
     },
     {
-      "order": 1149,
+      "order": 84,
       "ligatures": "",
       "prevSize": 28,
       "name": "pacman"
     },
     {
-      "order": 1150,
+      "order": 85,
       "ligatures": "",
       "prevSize": 28,
       "name": "a-logo"
     },
     {
-      "order": 1151,
+      "order": 86,
       "ligatures": "",
       "prevSize": 28,
       "name": "plus-sign"
     },
     {
-      "order": 1152,
+      "order": 87,
       "ligatures": "",
       "prevSize": 28,
       "name": "minus-sign"
     },
     {
-      "order": 1153,
+      "order": 88,
       "ligatures": "",
       "prevSize": 28,
       "name": "plus"
     },
     {
-      "order": 1154,
+      "order": 89,
       "ligatures": "",
       "prevSize": 28,
       "name": "minus"
     },
     {
-      "order": 1155,
+      "order": 90,
       "ligatures": "",
       "prevSize": 28,
       "name": "remove-sign"
     },
     {
-      "order": 1156,
+      "order": 91,
       "ligatures": "",
       "prevSize": 28,
       "name": "cancel-circle"
     },
     {
-      "order": 1157,
+      "order": 92,
       "ligatures": "",
       "prevSize": 28,
       "name": "check-circle-panel"
     },
     {
-      "order": 1158,
+      "order": 93,
       "ligatures": "",
       "prevSize": 28,
       "name": "print"
     },
     {
-      "order": 1159,
+      "order": 94,
       "ligatures": "",
       "prevSize": 28,
       "name": "download"
     },
     {
-      "order": 1160,
+      "order": 95,
       "ligatures": "",
       "prevSize": 28,
       "name": "check-empty"
     },
     {
-      "order": 1161,
+      "order": 96,
       "ligatures": "",
       "prevSize": 28,
       "name": "check-checked"
     },
     {
-      "order": 1162,
+      "order": 97,
       "ligatures": "",
       "prevSize": 28,
       "name": "placemark"
     },
     {
-      "order": 1163,
+      "order": 98,
       "ligatures": "",
       "prevSize": 28,
       "name": "rocket"
     },
     {
-      "order": 1164,
+      "order": 99,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-by"
     },
     {
-      "order": 1165,
+      "order": 100,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-nc"
     },
     {
-      "order": 1166,
+      "order": 101,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-nc-eu"
     },
     {
-      "order": 1167,
+      "order": 102,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-sa"
     },
     {
-      "order": 1168,
+      "order": 103,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-nd"
     },
     {
-      "order": 1169,
+      "order": 104,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-pd"
     },
     {
-      "order": 1170,
+      "order": 105,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-zero"
     },
     {
-      "order": 1171,
+      "order": 106,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-share"
     },
     {
-      "order": 1172,
+      "order": 107,
       "ligatures": "",
       "prevSize": 28,
       "name": "bike"
     },
     {
-      "order": 1173,
+      "order": 108,
       "ligatures": "",
       "prevSize": 28,
       "name": "beer"
     },
     {
-      "order": 1174,
+      "order": 109,
       "ligatures": "",
       "prevSize": 28,
       "name": "car"
     },
     {
-      "order": 1175,
+      "order": 110,
       "ligatures": "",
       "prevSize": 28,
       "name": "bus"
     },
     {
-      "order": 1176,
+      "order": 111,
       "ligatures": "",
       "prevSize": 28,
       "name": "lock"
     },
     {
-      "order": 1177,
+      "order": 112,
       "ligatures": "",
       "prevSize": 28,
       "name": "unlock"
     },
     {
-      "order": 1178,
+      "order": 113,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc"
     },
     {
-      "order": 1179,
+      "order": 114,
       "ligatures": "",
       "prevSize": 28,
       "name": "city"
     },
     {
-      "order": 1180,
+      "order": 115,
       "ligatures": "",
       "prevSize": 28,
       "name": "fun"
     },
     {
-      "order": 1181,
+      "order": 116,
       "ligatures": "",
       "prevSize": 28,
       "name": "outdoors"
     },
     {
-      "order": 1182,
+      "order": 117,
       "ligatures": "",
       "prevSize": 28,
       "name": "sightseeing"
     },
     {
-      "order": 1183,
+      "order": 118,
       "ligatures": "",
       "prevSize": 28,
       "name": "education"
     },
     {
-      "order": 1184,
+      "order": 119,
       "ligatures": "",
       "prevSize": 28,
       "name": "event"
     },
     {
-      "order": 1185,
+      "order": 120,
       "ligatures": "",
       "prevSize": 28,
       "name": "trophy"
     },
     {
-      "order": 1186,
+      "order": 121,
       "ligatures": "",
       "prevSize": 28,
       "name": "map-alt"
     },
     {
-      "order": 1187,
+      "order": 122,
       "ligatures": "",
       "prevSize": 28,
       "name": "type"
     },
     {
-      "order": 1188,
+      "order": 123,
       "ligatures": "",
       "prevSize": 28,
       "name": "video-cam"
     },
     {
-      "order": 1189,
+      "order": 124,
       "ligatures": "",
       "prevSize": 28,
       "name": "list-large"
     },
     {
-      "order": 1190,
+      "order": 125,
       "ligatures": "",
       "prevSize": 28,
       "name": "laurel"
     },
     {
-      "order": 1191,
+      "order": 126,
       "ligatures": "",
       "prevSize": 28,
       "name": "points"
     },
     {
-      "order": 1192,
+      "order": 127,
       "ligatures": "",
       "prevSize": 28,
       "name": "camera"
     },
     {
-      "order": 1193,
+      "order": 128,
       "ligatures": "",
       "prevSize": 28,
       "name": "problem"
     },
     {
-      "order": 1194,
+      "order": 129,
       "ligatures": "",
       "prevSize": 28,
       "name": "nope"
     },
     {
-      "order": 1195,
+      "order": 130,
       "ligatures": "",
       "prevSize": 28,
       "name": "play-circle"
     },
     {
-      "order": 1196,
+      "order": 131,
       "ligatures": "",
       "prevSize": 28,
       "name": "stop-circle"
     },
     {
-      "order": 1197,
+      "order": 132,
       "ligatures": "",
       "prevSize": 28,
       "name": "pause-circle"
     },
     {
-      "order": 1198,
+      "order": 133,
       "ligatures": "",
       "prevSize": 28,
       "name": "time"
     },
     {
-      "order": 1199,
+      "order": 134,
       "ligatures": "",
       "prevSize": 28,
       "name": "check-circle-alt"
     },
     {
-      "order": 1200,
+      "order": 135,
       "ligatures": "",
       "prevSize": 28,
       "name": "abqr"
     },
     {
-      "order": 1201,
+      "order": 136,
       "ligatures": "",
       "prevSize": 28,
       "name": "kompass"
     },
     {
-      "order": 1202,
+      "order": 137,
       "ligatures": "",
       "prevSize": 28,
       "name": "direction-up"
     },
     {
-      "order": 1203,
+      "order": 138,
       "ligatures": "",
       "prevSize": 28,
       "name": "misc"
     },
     {
-      "order": 1204,
+      "order": 139,
       "ligatures": "",
       "prevSize": 28,
       "name": "newbounds"
     },
     {
-      "order": 1205,
+      "order": 140,
       "ligatures": "",
       "prevSize": 28,
       "name": "multiplayer-large"
     },
     {
-      "order": 1206,
+      "order": 141,
       "ligatures": "",
       "prevSize": 28,
       "name": "share"
     },
     {
-      "order": 1207,
+      "order": 142,
       "ligatures": "",
       "prevSize": 28,
       "name": "heldenausflug"
     },
     {
-      "order": 1208,
+      "order": 143,
       "ligatures": "",
       "prevSize": 28,
       "name": "handledots"
     },
     {
-      "order": 1209,
+      "order": 144,
       "ligatures": "",
       "prevSize": 28,
       "name": "piechart"
     },
     {
-      "order": 1210,
+      "order": 145,
       "ligatures": "",
       "prevSize": 28,
       "name": "piechartalt"
     },
     {
-      "order": 1211,
+      "order": 146,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-logo"
     },
     {
-      "order": 1212,
+      "order": 147,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-themen"
     },
     {
-      "order": 1213,
+      "order": 148,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-geschichte"
     },
     {
-      "order": 1214,
+      "order": 149,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-kunst"
     },
     {
-      "order": 1215,
+      "order": 150,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-literatur"
     },
     {
-      "order": 1216,
+      "order": 151,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-natur"
     },
     {
-      "order": 1217,
+      "order": 152,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-technik"
     },
     {
-      "order": 1218,
+      "order": 153,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-sport"
     },
     {
-      "order": 1219,
+      "order": 154,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-archiv"
     },
     {
-      "order": 1220,
+      "order": 155,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-bibliothek"
     },
     {
-      "order": 1221,
+      "order": 156,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-gedenkstaette"
     },
     {
-      "order": 1222,
+      "order": 157,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-medienzentrum"
     },
     {
-      "order": 1223,
+      "order": 158,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-museum"
     },
     {
-      "order": 1224,
+      "order": 159,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-musikschule"
     },
     {
-      "order": 1225,
+      "order": 160,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-vhs"
     },
     {
-      "order": 1226,
+      "order": 161,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-sportverein"
     },
     {
-      "order": 1227,
+      "order": 162,
       "ligatures": "",
       "prevSize": 28,
       "name": "ab-logo"
     },
     {
-      "order": 1228,
+      "order": 163,
       "ligatures": "",
       "prevSize": 28,
       "name": "stopwatch"
     },
     {
-      "order": 1229,
+      "order": 164,
       "ligatures": "",
       "prevSize": 28,
       "name": "estimation"
     },
     {
-      "order": 1230,
+      "order": 165,
       "ligatures": "",
       "prevSize": 28,
       "name": "chevron-left"
     },
     {
-      "order": 1231,
+      "order": 166,
       "ligatures": "",
       "prevSize": 28,
       "name": "chevron-right"
     },
     {
-      "order": 1232,
+      "order": 167,
       "ligatures": "",
       "prevSize": 28,
       "name": "double-angle-left"
     },
     {
-      "order": 1233,
+      "order": 168,
       "ligatures": "",
       "prevSize": 28,
       "name": "double-angle-right"
     },
     {
-      "order": 1234,
+      "order": 169,
       "ligatures": "",
       "prevSize": 28,
       "name": "envelope-square"
     },
     {
-      "order": 1235,
+      "order": 170,
       "ligatures": "",
       "prevSize": 28,
       "name": "envelope-o"
     },
     {
-      "order": 1236,
+      "order": 171,
       "ligatures": "",
       "prevSize": 28,
       "name": "envelope"
     },
     {
-      "order": 1237,
+      "order": 172,
       "ligatures": "",
       "prevSize": 28,
       "name": "list"
     },
     {
-      "order": 1238,
+      "order": 173,
       "ligatures": "",
       "prevSize": 28,
       "name": "bpcqr"
     },
     {
-      "order": 1239,
+      "order": 174,
       "ligatures": "",
       "prevSize": 28,
       "name": "thermometer"
     },
     {
-      "order": 1240,
+      "order": 175,
       "ligatures": "",
       "prevSize": 28,
       "name": "equals"
     },
     {
-      "order": 1241,
+      "order": 176,
       "ligatures": "",
       "prevSize": 28,
       "name": "divide"
     },
     {
-      "order": 1242,
+      "order": 177,
       "ligatures": "",
       "prevSize": 28,
       "name": "greater-than"
     },
     {
-      "order": 1243,
+      "order": 178,
       "ligatures": "",
       "prevSize": 28,
       "name": "less-than"
     },
     {
-      "order": 1244,
+      "order": 179,
       "ligatures": "",
       "prevSize": 28,
       "name": "not-equal"
     },
     {
-      "order": 1245,
+      "order": 180,
       "ligatures": "",
       "prevSize": 28,
       "name": "tablet"
     },
     {
-      "order": 1246,
+      "order": 181,
       "ligatures": "",
       "prevSize": 28,
       "name": "element"
     },
     {
-      "order": 1247,
+      "order": 182,
       "ligatures": "",
       "prevSize": 28,
       "name": "google-plus"
     },
     {
-      "order": 1248,
+      "order": 183,
       "ligatures": "",
       "prevSize": 28,
       "name": "clipboard"
     },
     {
-      "order": 1249,
+      "order": 184,
       "ligatures": "",
       "prevSize": 28,
       "name": "home"
     },
     {
-      "order": 1250,
+      "order": 185,
       "ligatures": "",
       "prevSize": 28,
       "name": "tree"
     },
     {
-      "order": 1251,
+      "order": 186,
       "ligatures": "",
       "prevSize": 28,
       "name": "bars"
     },
     {
-      "order": 1252,
+      "order": 187,
       "ligatures": "",
       "prevSize": 28,
       "name": "twitter"
     },
     {
-      "order": 1253,
+      "order": 188,
       "ligatures": "",
       "prevSize": 28,
       "name": "facebook"
     },
     {
-      "order": 1254,
+      "order": 189,
       "ligatures": "",
       "prevSize": 28,
       "name": "vimeo"
     },
     {
-      "order": 1255,
+      "order": 190,
       "ligatures": "",
       "prevSize": 28,
       "name": "paste"
     },
     {
-      "order": 1256,
+      "order": 191,
       "ligatures": "",
       "prevSize": 28,
       "name": "location-arrow"
     },
     {
-      "order": 1257,
+      "order": 192,
       "ligatures": "",
       "prevSize": 28,
       "name": "map"
     },
     {
-      "order": 1258,
+      "order": 193,
       "ligatures": "",
       "prevSize": 28,
       "name": "map-invert"
     },
     {
-      "order": 1259,
+      "order": 194,
       "ligatures": "",
       "prevSize": 28,
       "name": "a-app-logo"
     },
     {
-      "order": 1260,
+      "order": 195,
       "ligatures": "",
       "prevSize": 28,
       "name": "mobile"
     },
     {
-      "order": 1261,
+      "order": 196,
       "ligatures": "",
       "prevSize": 28,
       "name": "eye-closed"
     },
     {
-      "order": 1262,
+      "order": 197,
       "ligatures": "",
       "prevSize": 28,
       "name": "eye"
     },
     {
-      "order": 1263,
+      "order": 198,
       "ligatures": "",
       "prevSize": 28,
       "name": "dropdown"
     },
     {
-      "order": 1264,
+      "order": 199,
       "ligatures": "",
       "prevSize": 28,
       "name": "single-player"
     },
     {
-      "order": 1265,
+      "order": 200,
       "ligatures": "",
       "prevSize": 28,
       "name": "multi-player"
     },
     {
-      "order": 1266,
+      "order": 201,
       "ligatures": "",
       "prevSize": 28,
       "name": "tiles"
     },
     {
-      "order": 1267,
+      "order": 202,
       "ligatures": "",
       "prevSize": 28,
       "name": "money"
     },
     {
-      "order": 1268,
+      "order": 203,
       "ligatures": "",
       "prevSize": 28,
       "name": "invoice"
     },
     {
-      "order": 1269,
+      "order": 204,
       "ligatures": "",
       "prevSize": 28,
       "name": "wallet"
     },
     {
-      "order": 1270,
+      "order": 205,
       "ligatures": "",
       "prevSize": 28,
       "name": "credit-card-alt"
     },
     {
-      "order": 1271,
+      "order": 206,
       "ligatures": "",
       "prevSize": 28,
       "name": "credit-card"
     },
     {
-      "order": 1272,
+      "order": 207,
       "ligatures": "",
       "prevSize": 28,
       "name": "ticket"
     },
     {
-      "order": 1273,
+      "order": 208,
       "ligatures": "",
       "prevSize": 28,
       "name": "cc-paypal"
     },
     {
-      "order": 1274,
+      "order": 209,
       "ligatures": "",
       "prevSize": 28,
       "name": "paypal"
     },
     {
-      "order": 1275,
+      "order": 210,
       "ligatures": "",
       "prevSize": 28,
       "name": "ticket-ab"
     },
     {
-      "order": 1276,
+      "order": 211,
       "ligatures": "",
       "prevSize": 28,
       "name": "ticket-qr"
     },
     {
-      "order": 1277,
+      "order": 212,
       "ligatures": "",
       "prevSize": 28,
       "name": "pied-piper-alt"
     },
     {
-      "order": 1278,
+      "order": 213,
       "ligatures": "",
       "prevSize": 28,
       "name": "angle-right"
     },
     {
-      "order": 1279,
+      "order": 214,
       "ligatures": "",
       "prevSize": 28,
       "name": "angle-left"
     },
     {
-      "order": 1280,
+      "order": 215,
       "ligatures": "",
       "prevSize": 28,
       "name": "circle"
     },
     {
-      "order": 1281,
+      "order": 216,
       "ligatures": "",
       "prevSize": 28,
       "name": "mic"
     },
     {
-      "order": 1282,
+      "order": 217,
       "ligatures": "",
       "prevSize": 28,
       "name": "brush"
     },
     {
-      "order": 1283,
+      "order": 218,
       "ligatures": "",
       "prevSize": 28,
       "name": "eat"
     },
     {
-      "order": 1284,
+      "order": 219,
       "ligatures": "",
       "prevSize": 28,
       "name": "football"
     },
     {
-      "order": 1285,
+      "order": 220,
       "ligatures": "",
       "prevSize": 28,
       "name": "austria-logo"
     },
     {
-      "order": 1286,
+      "order": 221,
       "ligatures": "",
       "prevSize": 28,
       "name": "bolt-info"
     },
     {
-      "order": 1287,
+      "order": 222,
       "ligatures": "",
       "prevSize": 28,
       "name": "bitcoin"
     },
     {
-      "order": 1288,
+      "order": 223,
       "ligatures": "",
       "prevSize": 28,
       "name": "bolt-legal"
     },
     {
-      "order": 1289,
+      "order": 224,
       "ligatures": "",
       "prevSize": 28,
       "name": "switch-small"
     },
     {
-      "order": 1290,
+      "order": 225,
       "ligatures": "",
       "prevSize": 28,
       "name": "switch-large"
     },
     {
-      "order": 1291,
+      "order": 226,
       "ligatures": "",
       "prevSize": 28,
       "name": "bolt-settings"
     },
     {
-      "order": 1292,
+      "order": 227,
       "ligatures": "",
       "prevSize": 28,
       "name": "bolt-start"
     },
     {
-      "order": 1293,
+      "order": 228,
       "ligatures": "",
       "prevSize": 28,
       "name": "flag-finish"
     },
     {
-      "order": 1294,
+      "order": 229,
       "ligatures": "",
       "prevSize": 28,
       "name": "flag-start"
     },
     {
-      "order": 1295,
+      "order": 230,
       "ligatures": "",
       "prevSize": 28,
       "name": "bolt-search"
     },
     {
-      "order": 1296,
+      "order": 231,
       "ligatures": "",
       "prevSize": 28,
       "name": "merge"
     },
     {
-      "order": 1297,
+      "order": 232,
       "ligatures": "",
       "prevSize": 28,
       "name": "medaille"
     },
     {
-      "order": 1298,
+      "order": 233,
       "ligatures": "",
       "prevSize": 28,
       "name": "folder"
     },
     {
-      "order": 1299,
+      "order": 234,
       "ligatures": "",
       "prevSize": 28,
       "name": "instant-accounts-large"
     },
     {
-      "order": 1300,
+      "order": 235,
       "ligatures": "",
       "prevSize": 28,
       "name": "instant-accounts"
     },
     {
-      "order": 1301,
+      "order": 236,
       "ligatures": "",
       "prevSize": 28,
       "name": "library"
     },
     {
-      "order": 1302,
+      "order": 237,
       "ligatures": "",
       "prevSize": 28,
       "name": "folder-instant-accounts"
     },
     {
-      "order": 1303,
+      "order": 238,
       "ligatures": "",
       "prevSize": 28,
       "name": "g"
     },
     {
-      "order": 1304,
+      "order": 239,
       "ligatures": "",
       "prevSize": 28,
       "name": "o"
     },
     {
-      "order": 1305,
+      "order": 240,
       "ligatures": "",
       "prevSize": 28,
       "name": "t"
     },
     {
-      "order": 1306,
+      "order": 241,
       "ligatures": "",
       "prevSize": 28,
       "name": "voebb"
     },
     {
-      "order": 1307,
+      "order": 242,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-hands"
     },
     {
-      "order": 1308,
+      "order": 243,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-i"
     },
     {
-      "order": 1309,
+      "order": 244,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-law"
     },
     {
-      "order": 1310,
+      "order": 245,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-mtg"
     },
     {
-      "order": 1311,
+      "order": 246,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-legal-noborder"
     },
     {
-      "order": 1312,
+      "order": 247,
       "ligatures": "",
       "prevSize": 28,
       "name": "dice"
     },
     {
-      "order": 1313,
+      "order": 248,
       "ligatures": "",
       "prevSize": 28,
       "name": "contains"
     },
     {
-      "order": 1314,
+      "order": 249,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-niedersachsen"
     },
     {
-      "order": 1315,
+      "order": 250,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-placemark"
     },
     {
-      "order": 1316,
+      "order": 251,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-qr"
     },
     {
-      "order": 1317,
+      "order": 252,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-questionmark"
     },
     {
-      "order": 1318,
+      "order": 253,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-wrench"
     },
     {
-      "order": 1319,
+      "order": 254,
       "ligatures": "",
       "prevSize": 28,
       "name": "spoton-lupe"
     },
     {
-      "order": 1320,
+      "order": 255,
       "ligatures": "",
       "prevSize": 28,
       "name": "contains-not"
     },
     {
-      "order": 1321,
+      "order": 256,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-natur2"
     },
     {
-      "order": 1322,
+      "order": 257,
       "ligatures": "",
       "prevSize": 28,
       "name": "bipa-buehne"
     },
     {
-      "order": 1323,
+      "order": 258,
       "ligatures": "",
       "prevSize": 28,
       "name": "close"
     },
     {
-      "order": 1324,
+      "order": 259,
       "ligatures": "",
       "prevSize": 28,
       "name": "barcode"
     },
     {
-      "order": 1325,
+      "order": 260,
       "ligatures": "",
       "prevSize": 28,
       "name": "stop"
     },
     {
-      "order": 1326,
+      "order": 261,
       "ligatures": "",
       "prevSize": 28,
       "name": "list-ul"
     },
     {
-      "order": 1327,
+      "order": 262,
       "ligatures": "",
       "prevSize": 28,
       "name": "list-ol"
     },
     {
-      "order": 1328,
+      "order": 263,
       "ligatures": "",
       "prevSize": 28,
       "name": "sort"
     },
     {
-      "order": 1329,
+      "order": 264,
       "ligatures": "",
       "prevSize": 28,
       "name": "whatsapp"
@@ -1553,7 +1553,7 @@
       "width": 1024,
       "height": 1024
     },
-    "iconsHash": 1907777501
+    "iconsHash": 1223794937
   },
   "height": 1024,
   "prevSize": 32,
@@ -3063,7 +3063,10 @@
     },
     {
       "paths": [
-        "M996.448 684.311c17.568-52 27.552-107.488 27.552-165.44 0-249.792-177.344-457.824-412.448-504.384v206.624c123.936 41.792 213.312 159.168 213.312 297.76 0 21.344-2.112 42.24-6.176 62.4l177.76 103.040zM412.448 14.487c-235.104 46.56-412.448 254.592-412.448 504.384 0 57.984 9.984 113.44 27.584 165.44l177.728-103.040c-4.032-20.192-6.208-41.056-6.208-62.4 0-138.592 89.408-255.968 213.344-297.76v-206.624zM127.296 857.431c93.824 107.488 231.2 175.712 384.736 175.712 153.504 0 290.88-68.224 384.704-175.712l-177.92-103.168c-55.2 48.928-127.456 78.88-206.816 78.88-79.392 0-151.68-29.952-206.816-78.88l-177.888 103.168zM512 666.647c78.56 0 142.24-63.968 142.24-142.848s-63.68-142.848-142.24-142.848-142.24 63.968-142.24 142.848 63.68 142.848 142.24 142.848z"
+        "M359.2 361.2h305.4v305.4h-305.4v-305.4z",
+        "M99.4 218.8c0-98.2 77.4-110 111-110.6h149v-95.2h-150c-76.4 1-205.4 45.4-205.4 205.8v142.4h95.4v-142.4z",
+        "M924.8 809.2c0 101.4-85 110.2-110.4 110.6h-604.8c-101.4 0-110.4-85-110.4-110.6v-142.4h-95.2v142.8c0.8 76.2 45 205.2 205.8 205.2h605c76.2-0.6 205.2-44.8 205.2-205.6v-142.4h-95.2v142.4z",
+        "M814.2 13h-149.4v95.4h149.4c101.4 0 110.2 85 110.6 110.6v142.4h95.2v-143c-0.8-76.4-45-205.4-205.8-205.4z"
       ],
       "tags": [
         "bipa-logo"
