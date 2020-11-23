@@ -1,18 +1,19 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?r2bvik');
-  src:  url('fonts/Actionbound-14.eot?r2bvik#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?r2bvik') format('truetype'),
-    url('fonts/Actionbound-14.woff?r2bvik') format('woff'),
-    url('fonts/Actionbound-14.svg?r2bvik#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?hdr6or');
+  src:  url('fonts/Actionbound-14.eot?hdr6or#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?hdr6or') format('truetype'),
+    url('fonts/Actionbound-14.woff?hdr6or') format('woff'),
+    url('fonts/Actionbound-14.svg?hdr6or#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Actionbound-14' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -24,6 +25,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cloze:before {
+  content: "\e96c";
+}
+.icon-linkedin-square:before {
+  content: "\e96d";
+}
+.icon-linkedin:before {
+  content: "\e96e";
+}
 .icon-move:before {
   content: "\e900";
 }
