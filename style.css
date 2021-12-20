@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Actionbound-14';
-  src:  url('fonts/Actionbound-14.eot?8knbiw');
-  src:  url('fonts/Actionbound-14.eot?8knbiw#iefix') format('embedded-opentype'),
-    url('fonts/Actionbound-14.ttf?8knbiw') format('truetype'),
-    url('fonts/Actionbound-14.woff?8knbiw') format('woff'),
-    url('fonts/Actionbound-14.svg?8knbiw#Actionbound-14') format('svg');
+  src:  url('fonts/Actionbound-14.eot?smy8s6');
+  src:  url('fonts/Actionbound-14.eot?smy8s6#iefix') format('embedded-opentype'),
+    url('fonts/Actionbound-14.ttf?smy8s6') format('truetype'),
+    url('fonts/Actionbound-14.woff?smy8s6') format('woff'),
+    url('fonts/Actionbound-14.svg?smy8s6#Actionbound-14') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-math:before {
+  content: "\e970";
+}
 .icon-bipa-playlist:before {
   content: "\e96f";
 }
